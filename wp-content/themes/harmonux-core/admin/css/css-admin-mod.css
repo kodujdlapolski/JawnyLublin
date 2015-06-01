@@ -1,0 +1,119 @@
+/* -----------------------------------------
+   ADMIN AREA GENERAL CLASSES
+----------------------------------------- */
+.smartlib-fieldset{
+	border: 1px solid #DFDFDF;
+	border-radius: 3px;
+	padding: 15px;
+
+}
+.smartlib-fieldset label{
+	display: block;
+}
+.smartlib-fieldset h4{
+	font-size: 14px;
+	padding: 4px 0px;
+	border-bottom: 1px solid #DFDFDF;
+	margin: 0 0 10px 0;
+}
+.smartlib-fieldset .smartlib-form-block{
+	border-bottom: 1px solid #DFDFDF;
+	padding: 0px 0 20px 0;
+	margin-bottom: 20px;
+}
+.smartlib-form-block textarea{
+	width: 600px;
+	max-width: 100%;
+	height: 200px;
+}
+.smartlib-prompt{
+	margin: 3px 0 0 0;
+	font-style: italic;
+	font-size: 11px;
+}
+.smartlib-radio-label{
+	float: left;
+	min-width: 120px;
+	padding-right: 20px;
+	margin-right: 20px;
+	text-align: right;
+
+}
+.smartlib-form-line{
+	margin-bottom: 10px;
+}
+
+/* -----------------------------------------
+   CUSTOMIZE PANEL
+----------------------------------------- */
+
+/*layout & sidebar width section*/
+.range-fieldset label{
+	width: 40%;
+	float: left;
+	padding: 3px 0px;
+}
+.range-fieldset input{
+	width: 60px!important;
+	float: left;
+}
+.range-fieldset .noUiSlider{
+	clear: both;
+	margin: 15px 0px;
+	width: 200px!important;
+	float: left;
+}
+.range-fieldset span{
+	float: left;
+	margin: 5px;
+}
+
+/*default image field*/
+.smartlib-image{
+	width: 200px;
+	height: 200px;
+	margin: 20px 0;
+	background: #eee;
+	border:1px solid #ddd;
+	overflow: hidden;
+}
+.smartlib-image img{
+	max-width: 100%;
+	height: auto;
+}
+
+/*PREMIUM INFO*/
+.smartlib-form-proversion-info-outer{
+    clear: both;
+    min-height: 100px;
+}
+.smartlib-form-proversion-info-inner{
+    background: url('img/bg-transparent.png');
+    height: 100%;
+}
+.smartlib-form-proversion-info-outer a{
+    font-size: 16px;
+    font-weight: bold;
+    display: block;
+    padding: 20px;
+    text-align: center;
+}
+/*colors section*/
+#accordion-section-colors .smartlib-form-proversion-info-outer{
+    background: url('img/colors-option.png') no-repeat;
+    height: 314px;
+}
+#accordion-section-harmonux_section_project_layout .smartlib-form-proversion-info-outer{
+	background: url('img/layout.png') no-repeat -20px 0;
+	height: 86px;
+}
+/*sidevar resize*/
+#accordion-section-harmonux_section_project_sidebar_resize .smartlib-form-proversion-info-outer{
+    background: url('img/resize-sidebar.png') no-repeat;
+    height: 86px;
+}
+/*fonts*/
+#accordion-section-harmonux_section_project_fonts .smartlib-form-proversion-info-outer{
+    background: url('img/typography.jpg') no-repeat;
+    height: 62px;
+}

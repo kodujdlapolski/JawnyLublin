@@ -1,0 +1,4230 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Post Type Page Template\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-31 21:29+0900\n"
+"PO-Revision-Date: 2012-10-31 21:29+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja_JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.3\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: custom-post-type-page-template.php:54 custom-post-type-page-template.php:66
+msgid "Page Template"
+msgstr "ページテンプレート"
+
+#: custom-post-type-page-template.php:60
+#: custom-post-type-page-template.php:136
+msgid "Custom Post Type Page Template"
+msgstr "カスタム投稿タイプページテンプレート"
+
+#: custom-post-type-page-template.php:67
+msgid "Default Template"
+msgstr "デフォルトテンプレート"
+
+#: custom-post-type-page-template.php:141
+msgid "Settings saved."
+msgstr "設定を保存しました。"
+
+#: custom-post-type-page-template.php:150
+msgid "Custom Post Types"
+msgstr "カスタム投稿タイプ"
+
+#: custom-post-type-page-template.php:165
+msgid "Enforcement Mode"
+msgstr "強制モード"
+
+#: custom-post-type-page-template.php:166
+msgid ""
+"Check this in case of using  themes like Twenty Eleven, Twenty Twelve, etc."
+msgstr ""
+"Twenty Eleven、Twenty Twelve などのテーマを使用する際にチェックを入れてくださ"
+"い。"
+
+#: custom-post-type-page-template.php:170
+msgid "Save Changes"
+msgstr "変更を保存"
+
+#~ msgid "DMM Affiliate Updater"
+#~ msgstr "DMMアフィリエイトアップデーター"
+
+#~ msgid "DMM Affiliate Update Batch Interval"
+#~ msgstr "DMMアフィリエイト更新バッチ処理間隔"
+
+#~ msgid "Execute"
+#~ msgstr "実行する"
+
+#~ msgid "Site"
+#~ msgstr "サイト"
+
+#~ msgid "Service"
+#~ msgstr "サービス"
+
+#~ msgid "Floor"
+#~ msgstr "フロア"
+
+#~ msgid "Hits"
+#~ msgstr "取得件数"
+
+#~ msgid "Offset"
+#~ msgstr "検索開始位置"
+
+#~ msgid "Sort"
+#~ msgstr "ソート順"
+
+#~ msgid "Keyword"
+#~ msgstr "キーワード"
+
+#~ msgid "Options updated."
+#~ msgstr "オプションは更新されました。"
+
+#~ msgid "Options imported."
+#~ msgstr "オプションはインポートされました。"
+
+#~ msgid "Import failed."
+#~ msgstr "インポートは失敗しました。"
+
+#~ msgid "Options deleted."
+#~ msgstr "オプションは削除されました。"
+
+#~ msgid "Click to toggle"
+#~ msgstr "クリックで切替"
+
+#~ msgid "Global Settings"
+#~ msgstr "環境設定"
+
+#~ msgid "Automatic Obtaining Status"
+#~ msgstr "自動取得状況"
+
+#~ msgid "Run the automatic obtaining process."
+#~ msgstr "自動取得プロセスを起動する"
+
+#~ msgid "(%.2f %)"
+#~ msgstr "（%.2f ％）"
+
+#~ msgid "(To be prepared)"
+#~ msgstr "（準備中）"
+
+#~ msgid "(Under suspension)"
+#~ msgstr "（停止中）"
+
+#~ msgid "Run only once"
+#~ msgstr "一回のみ起動する"
+
+#~ msgid "Individual Obtaining Status"
+#~ msgstr "個別取得状況"
+
+#~ msgid "Run the individual obtaining process."
+#~ msgstr "個別取得プロセスを起動する"
+
+#~ msgid "Recurrence"
+#~ msgstr "実行間隔"
+
+#~ msgid "Batch Interval"
+#~ msgstr "バッチ処理間隔"
+
+#~ msgid "seconds"
+#~ msgstr "秒"
+
+#~ msgid "Maximum number per batch (Individual)"
+#~ msgstr "バッチ処理ごとの最大数（個別）"
+
+#~ msgid "cases"
+#~ msgstr "件"
+
+#~ msgid "Adjustment Interval (Individual)"
+#~ msgstr "バッチ処理間隔（個別）"
+
+#~ msgid "milliseconds"
+#~ msgstr "ミリ秒"
+
+#~ msgid "Update Options &raquo;"
+#~ msgstr "更新オプション &raquo;"
+
+#~ msgid "DMM Options"
+#~ msgstr "DMMオプション"
+
+#~ msgid "Common Options"
+#~ msgstr "共通オプション"
+
+#~ msgid "API ID"
+#~ msgstr "API ID"
+
+#~ msgid "Affiliate ID"
+#~ msgstr "アフィリエイトID"
+
+#~ msgid "Operation API Name"
+#~ msgstr "実行API名"
+
+#~ msgid "API Version"
+#~ msgstr "APIバージョン"
+
+#~ msgid "Automatic Obtaining Options"
+#~ msgstr "自動取得オプション"
+
+#~ msgid "Total Hits"
+#~ msgstr "総取得件数"
+
+#~ msgid "Taxonomy"
+#~ msgstr "カスタム分類"
+
+#~ msgid "Insert to Taxonomy"
+#~ msgstr "カスタム分類に挿入"
+
+#~ msgid "Individual Obtaining Options"
+#~ msgstr "個別取得オプション"
+
+#~ msgid "Post types to use the individual obtaing option."
+#~ msgstr "個別取得オプションを使用する投稿タイプ"
+
+#~ msgid "Enclosure Start Tag"
+#~ msgstr "囲い開始タグ"
+
+#~ msgid "Enclosure End Tag"
+#~ msgstr "囲い終了タグ"
+
+#~ msgid "Default Format"
+#~ msgstr "デフォルトフォーマット"
+
+#~ msgid "Export Options"
+#~ msgstr "エクスポートオプション"
+
+#~ msgid "Export Options &raquo;"
+#~ msgstr "オプションをエクスポートする &raquo;"
+
+#~ msgid "Import Options"
+#~ msgstr "インポートオプション"
+
+#~ msgid "Are you sure to import options? Options you set will be overwritten."
+#~ msgstr ""
+#~ "本当にオプションをインポートしてもよろしいですか？設定したオプションは上書"
+#~ "きされます。"
+
+#~ msgid "Import Options &raquo;"
+#~ msgstr "オプションをインポートする &raquo;"
+
+#~ msgid "Reset Options"
+#~ msgstr "オプションリセット"
+
+#~ msgid ""
+#~ "Are you sure to reset options? Options you set will be reset to the "
+#~ "default settings."
+#~ msgstr ""
+#~ "本当にオプションをリセットしてもよろしいですか？設定したオプションは初期化"
+#~ "されます。"
+
+#~ msgid "Reset Options &raquo;"
+#~ msgstr "オプションリセット &raquo;"
+
+#~ msgid "Delete Options"
+#~ msgstr "オプション削除"
+
+#~ msgid "Are you sure to delete options? Options you set will be deleted."
+#~ msgstr ""
+#~ "本当にオプションを削除してもよろしいですか？設定したオプションは削除されま"
+#~ "す。"
+
+#~ msgid "Delete Options &raquo;"
+#~ msgstr "オプション削除 &raquo;"
+
+#~ msgid "DMM Updater"
+#~ msgstr "DMMアップデーター"
+
+#~ msgid "Text updated."
+#~ msgstr "テキストは更新されました。"
+
+#~ msgid "Text imported."
+#~ msgstr "テキストはインポートされました。"
+
+#~ msgid "Text deleted."
+#~ msgstr "テキストは削除されました。"
+
+#~ msgid "Status"
+#~ msgstr "状況"
+
+#~ msgid "Run"
+#~ msgstr "起動する"
+
+#~ msgid "Adjustment Interval"
+#~ msgstr "調整間隔"
+
+#~ msgid "DMM ID"
+#~ msgstr "DMM ID"
+
+#~ msgid "Translation Overwriter"
+#~ msgstr "翻訳オーバーライター"
+
+#~ msgid ""
+#~ "Please choose one from the following item which you would like to "
+#~ "overwrite the translation."
+#~ msgstr "翻訳を上書きしたい項目を下記の中から選択してください。"
+
+#~ msgid "&laquo;"
+#~ msgstr "&laquo;"
+
+#~ msgid "&raquo;"
+#~ msgstr "&raquo;"
+
+#~ msgid "Displaying %s&#8211;%s of %s"
+#~ msgstr "%s-%s件（%s件中）を表示中"
+
+#~ msgid "ID"
+#~ msgstr "ID"
+
+#~ msgid "Original Text"
+#~ msgstr "オリジナルテキスト"
+
+#~ msgid "Translated Text"
+#~ msgstr "翻訳テキスト"
+
+#~ msgid "Overwritten Text"
+#~ msgstr "上書きテキスト"
+
+#~ msgid "Update &raquo;"
+#~ msgstr "更新する &raquo;"
+
+#~ msgid "Overwritten Text Export"
+#~ msgstr "上書きテキストエクスポート"
+
+#~ msgid "Export Overwritten Text &raquo;"
+#~ msgstr "上書きテキストをエクスポートする &raquo;"
+
+#~ msgid "Overwritten Text Import"
+#~ msgstr "上書きテキストインポート"
+
+#~ msgid ""
+#~ "Are you sure to import overwritten texts? Translations you set will be "
+#~ "overwritten."
+#~ msgstr ""
+#~ "本当に上書きテキストを削除してもよろしいですか？設定した翻訳は削除されま"
+#~ "す。"
+
+#~ msgid "Import Overwritten Texts &raquo;"
+#~ msgstr "上書きテキストをインポートする &raquo;"
+
+#~ msgid "Overwritten Text Delete"
+#~ msgstr "上書きテキスト削除"
+
+#~ msgid ""
+#~ "Are you sure to delete overwritten texts? Translations you set will be "
+#~ "deleted."
+#~ msgstr ""
+#~ "本当に上書きテキストを削除してもよろしいですか？設定した翻訳は削除されま"
+#~ "す。"
+
+#~ msgid "Delete Overwritten Texts &raquo;"
+#~ msgstr "上書きテキストを削除する &raquo;"
+
+#~ msgid "Text Delete"
+#~ msgstr "テキスト削除"
+
+#~ msgid "Delete"
+#~ msgstr "削除"
+
+#~ msgid "Delete &raquo;"
+#~ msgstr "削除する &raquo;"
+
+#~ msgid "The email address isn't correct."
+#~ msgstr "メールアドレスに誤りがあります。"
+
+#~ msgid "This email address is already registered."
+#~ msgstr "このメールアドレスは既に登録されています。"
+
+#~ msgid "Please refresh the page and register it again."
+#~ msgstr "ページを再読み込みして再度お試しください。"
+
+#~ msgid "Mail Magazine"
+#~ msgstr "メールマガジン"
+
+#~ msgid "Mail Magazine Management"
+#~ msgstr "メールマガジン管理"
+
+#~ msgid "Template Management"
+#~ msgstr "テンプレート管理"
+
+#~ msgid "Mail Management"
+#~ msgstr "メール管理"
+
+#~ msgid "Options"
+#~ msgstr "オプション設定"
+
+#~ msgid "Every ten minutes"
+#~ msgstr "10分ごと"
+
+#~ msgid "Newsletter Subject"
+#~ msgstr "メールマガジン件名"
+
+#~ msgid "Newsletter Body"
+#~ msgstr "メールマガジン本文"
+
+#~ msgid "Mail Address"
+#~ msgstr "メールアドレス"
+
+#~ msgid "Mail Category"
+#~ msgstr "メールカテゴリー"
+
+#~ msgid "Registered Datetime"
+#~ msgstr "登録日時"
+
+#~ msgid "Add New Mail"
+#~ msgstr "新規メール追加"
+
+#~ msgid "Register a new mail &raquo;"
+#~ msgstr "新しいメールを登録する &raquo;"
+
+#~ msgid "Edit Mail"
+#~ msgstr "メール編集"
+
+#~ msgid "Edit Mail &raquo;"
+#~ msgstr "メールを変更する &raquo;"
+
+#~ msgid "Delete Mail"
+#~ msgstr "メール削除"
+
+#~ msgid "Currently this is Admin Demo Mode. You can not change any settings."
+#~ msgstr "現在、管理画面はデモモードです。いかなる設定も変更できません。"
+
+#~ msgid "Mail registered."
+#~ msgstr "メールは登録されました。"
+
+#~ msgid "Mail updated."
+#~ msgstr "メールは更新されました。"
+
+#~ msgid "Mail deleted."
+#~ msgstr "メールは削除されました。"
+
+#~ msgid "Mail List"
+#~ msgstr "メールリスト"
+
+#~ msgid "Bulk Actions"
+#~ msgstr "一括操作"
+
+#~ msgid "Apply"
+#~ msgstr "適用"
+
+#~ msgid "Search"
+#~ msgstr "検索"
+
+#~ msgid "Match Partial"
+#~ msgstr "部分一致"
+
+#~ msgid "Match Full"
+#~ msgstr "完全一致"
+
+#~ msgid "Change and Display &raquo;"
+#~ msgstr "変更表示 &raquo;"
+
+#~ msgid "Detail"
+#~ msgstr "詳細"
+
+#~ msgid "Not Found"
+#~ msgstr "見つかりませんでした。"
+
+#~ msgid "MMN Mail"
+#~ msgstr "MMN メール"
+
+#~ msgid "Newsletter"
+#~ msgstr "メールマガジン"
+
+#~ msgid "Thank you for subscription."
+#~ msgstr "ご購読ありがとうございます。"
+
+#~ msgid "Subscribe &raquo;"
+#~ msgstr "購読 &raquo;"
+
+#~ msgid "Just enter your Email here to subscribe newsletters:"
+#~ msgstr "メールマガジンのご購読は、以下にメールアドレスをご入力ください："
+
+#~ msgid "Please confirm your profile."
+#~ msgstr "アカウント設定をご確認ください。"
+
+#~ msgid "Category"
+#~ msgstr "カテゴリー"
+
+#~ msgid "Later Message"
+#~ msgstr "購読後メッセージ"
+
+#~ msgid "Post Text"
+#~ msgstr "後テキスト"
+
+#~ msgid "Hide this widget in login"
+#~ msgstr "ログイン中はウィジェットを表示しない"
+
+#~ msgid "Newsletter ID"
+#~ msgstr "ID"
+
+#~ msgid "Newsletter Status"
+#~ msgstr "配信状況"
+
+#~ msgid "Publish Datetime"
+#~ msgstr "送信開始日時"
+
+#~ msgid "Update Datetime"
+#~ msgstr "更新日時"
+
+#~ msgid "Add New Newsletter"
+#~ msgstr "新規メールマガジン追加"
+
+#~ msgid "User Information"
+#~ msgstr "ユーザー情報"
+
+#~ msgid "Ex)"
+#~ msgstr "例）"
+
+#~ msgid "Extraction Condition"
+#~ msgstr "抽出条件"
+
+#~ msgid "Delivery List"
+#~ msgstr "配信リスト"
+
+#~ msgid "All Registered Users"
+#~ msgstr "全ての登録ユーザー"
+
+#~ msgid "Extract all registered users"
+#~ msgstr "全ての登録ユーザーを抽出する"
+
+#~ msgid "All Mail Users"
+#~ msgstr "全てのメールユーザー"
+
+#~ msgid "Extract all mail users"
+#~ msgstr "全てのメールユーザーを抽出する"
+
+#~ msgid "Refine by Mail Category"
+#~ msgstr "メールカテゴリーで絞り込み"
+
+#~ msgid "User Attributes"
+#~ msgstr "ユーザー属性"
+
+#~ msgid "Matching Condition"
+#~ msgstr "マッチング条件"
+
+#~ msgid "Include / Exclude"
+#~ msgstr "含む / 含まない"
+
+#~ msgid "Condition %d"
+#~ msgstr "条件%d"
+
+#~ msgid "and above"
+#~ msgstr "以上"
+
+#~ msgid "and below"
+#~ msgstr "以下"
+
+#~ msgid "more than"
+#~ msgstr "超過"
+
+#~ msgid "less than"
+#~ msgstr "未満"
+
+#~ msgid "Include (Sufficient)"
+#~ msgstr "含む （十分条件）"
+
+#~ msgid "Include (Necessary)"
+#~ msgstr "含む （必要条件）"
+
+#~ msgid "Exclude (Necessary)"
+#~ msgstr "含まない （必要条件）"
+
+#~ msgid "Add an user information condition &raquo;"
+#~ msgstr "ユーザー情報条件を追加する &raquo;"
+
+#~ msgid "Order Information"
+#~ msgstr "注文情報"
+
+#~ msgid "Order Condition"
+#~ msgstr "注文条件"
+
+#~ msgid "Add an order information condition &raquo;"
+#~ msgstr "注文情報条件を追加する &raquo;"
+
+#~ msgid "Direct Input"
+#~ msgstr "直接入力"
+
+#~ msgid "Input Email in each line"
+#~ msgstr "1行ごとにメールアドレスを入力してください。"
+
+#~ msgid "Email"
+#~ msgstr "メールアドレス"
+
+#~ msgid "User ID"
+#~ msgstr "ユーザーID"
+
+#~ msgid "Confirmation"
+#~ msgstr "確認"
+
+#~ msgid "Send a test newsletter to the test user."
+#~ msgstr "テストユーザーにテスト用メールマガジンを送信する"
+
+#~ msgid "Make the newsletter status suspended."
+#~ msgstr "メールマガジンの配信状況を一時停止にする"
+
+#~ msgid "Register a new newsletter &raquo;"
+#~ msgstr "新しいメールマガジンを登録する &raquo;"
+
+#~ msgid "Edit Newsletter"
+#~ msgstr "メールマガジン編集"
+
+#~ msgid "Done"
+#~ msgstr "済"
+
+#~ msgid "Edit the newsletter &raquo;"
+#~ msgstr "メールマガジンを更新する &raquo;"
+
+#~ msgid "Delete Newsletter"
+#~ msgstr "メールマガジン削除"
+
+#~ msgid "Delete Newsletter &raquo;"
+#~ msgstr "メールマガジンを削除する &raquo;"
+
+#~ msgid "Newsletter registered."
+#~ msgstr "メールマガジンが登録されました。"
+
+#~ msgid "Newsletter updated."
+#~ msgstr "メールマガジンが更新されました。"
+
+#~ msgid "Newsletter suspended."
+#~ msgstr "メールマガジンの配信が一時停止されました。"
+
+#~ msgid "Newsletter restarted."
+#~ msgstr "メールマガジンの配信が再開されました。"
+
+#~ msgid "Newsletter deleted."
+#~ msgstr "メールマガジンが削除されました。"
+
+#~ msgid "Newsletter Management"
+#~ msgstr "メールマガジン管理"
+
+#~ msgid "Newsletter List"
+#~ msgstr "メールマガジンリスト"
+
+#~ msgid "Load From Template"
+#~ msgstr "テンプレートから読込"
+
+#~ msgid "Suspend"
+#~ msgstr "一時停止"
+
+#~ msgid "Restart"
+#~ msgstr "再開"
+
+#~ msgid "Delivery Booking"
+#~ msgstr "配信予約"
+
+#~ msgid "Delivering"
+#~ msgstr "配信中"
+
+#~ msgid "Completed"
+#~ msgstr "配信完了"
+
+#~ msgid "Options reset."
+#~ msgstr "オプションはリセットされました。"
+
+#~ msgid "Mail Magazine Newsletter"
+#~ msgstr "メールマガジンニュースレター"
+
+#~ msgid "From Email"
+#~ msgstr "差出人メールアドレス"
+
+#~ msgid "From Name"
+#~ msgstr "差出人名"
+
+#~ msgid "Reply-to Email"
+#~ msgstr "返信先メールアドレス"
+
+#~ msgid "Test User ID"
+#~ msgstr "テストユーザーID"
+
+#~ msgid "Maximum number of emails per day of batch"
+#~ msgstr "バッチ処理の1日の最大送信メール数"
+
+#~ msgid "Admin Demo Mode"
+#~ msgstr "管理画面デモモード"
+
+#~ msgid "Please check if you make the admin panel under the demo."
+#~ msgstr "管理画面をデモモードにするにはチェックしてください。"
+
+#~ msgid "Role of this plugin"
+#~ msgstr "プラグインの設定権限"
+
+#~ msgid ""
+#~ "If you delete the preset name and save it, the preset will be deleted."
+#~ msgstr "プリセット名を削除し保存すると、そのプリセットは削除されます。"
+
+#~ msgid "Preset"
+#~ msgstr "プリセット"
+
+#~ msgid "Preset Name"
+#~ msgstr "プリセット名"
+
+#~ msgid "Template ID"
+#~ msgstr "ID"
+
+#~ msgid "Template Name"
+#~ msgstr "テンプレート名"
+
+#~ msgid "Template Subject"
+#~ msgstr "テンプレート件名"
+
+#~ msgid "Template Body"
+#~ msgstr "テンプレート本文"
+
+#~ msgid "Add New Template"
+#~ msgstr "新規テンプレート追加"
+
+#~ msgid "Register a new template &raquo;"
+#~ msgstr "新しいテンプレートを登録する &raquo;"
+
+#~ msgid "Edit Template"
+#~ msgstr "テンプレート編集"
+
+#~ msgid "Edit Template &raquo;"
+#~ msgstr "テンプレートを編集する &raquo;"
+
+#~ msgid "Template registered."
+#~ msgstr "テンプレートは登録されました。"
+
+#~ msgid "Template List"
+#~ msgstr "テンプレートリスト"
+
+#~ msgid "Send Newsletter"
+#~ msgstr "メールマガジン送信"
+
+#~ msgid "Purchase Count"
+#~ msgstr "購入回数"
+
+#~ msgid "Purchase Date"
+#~ msgstr "購入日"
+
+#~ msgid "Test Email"
+#~ msgstr "テスト用メールアドレス"
+
+#~ msgid "Include"
+#~ msgstr "含む"
+
+#~ msgid "Exclude"
+#~ msgstr "含まない"
+
+#~ msgid "Newsletter Publish Datetime"
+#~ msgstr "配信開始日時"
+
+#, fuzzy
+#~ msgid "newsletter List"
+#~ msgstr "都道府県リスト"
+
+#, fuzzy
+#~ msgid "Add New newsletter"
+#~ msgstr "新規ユーザー登録"
+
+#~ msgid "Maximum number of emails per day"
+#~ msgstr "1日の最大送信メール数"
+
+#, fuzzy
+#~ msgid "Add New template"
+#~ msgstr "新規レコメンド登録"
+
+#~ msgid "Net Shop Admin"
+#~ msgstr "ネットショップ管理"
+
+#~ msgid "Shopping Mall"
+#~ msgstr "ショッピングモール"
+
+#~ msgid "Shopping Mall Manager"
+#~ msgstr "ショッピングモールマネージャー"
+
+#~ msgid "Net Shop"
+#~ msgstr "ネットショップ"
+
+#~ msgid "Product Management"
+#~ msgstr "商品管理"
+
+#~ msgid "Address Management"
+#~ msgstr "配送先管理"
+
+#~ msgid "Point Management"
+#~ msgstr "ポイント管理"
+
+#~ msgid "Coupon Management"
+#~ msgstr "クーポン管理"
+
+#~ msgid "Recommend Management"
+#~ msgstr "レコメンド管理"
+
+#~ msgid "Wish List Management"
+#~ msgstr "ウィッシュリスト管理"
+
+#~ msgid "Order Analysis"
+#~ msgstr "注文分析"
+
+#~ msgid "Password Lost and Found"
+#~ msgstr "パスワード紛失取り扱い"
+
+#~ msgid "Checkout Method"
+#~ msgstr "購入手段選択"
+
+#~ msgid "Billing Information"
+#~ msgstr "注文者情報"
+
+#~ msgid "Shipping Information"
+#~ msgstr "送り先情報"
+
+#~ msgid "Shipping Method"
+#~ msgstr "配送方法選択"
+
+#~ msgid "Payment Information"
+#~ msgstr "支払方法選択"
+
+#~ msgid "Order Review"
+#~ msgstr "確認画面"
+
+#~ msgid "Order Comlete"
+#~ msgstr "注文完了"
+
+#~ msgid "Service Unavailable"
+#~ msgstr "管理者にご連絡ください"
+
+#~ msgid "The product price in your cart is updated."
+#~ msgstr "カート内の商品価格が更新されました。"
+
+#~ msgid ""
+#~ "Because the product in your cart became out of stock, the product is not "
+#~ "available any more."
+#~ msgstr ""
+#~ "カート内の商品が在庫切れになったため、商品がカートから削除されました。"
+
+#~ msgid ""
+#~ "Because the quantity in your cart exceeds available quantity, the "
+#~ "quantity was arranged automatically."
+#~ msgstr ""
+#~ "カート内の数量が購入可能数量を超えたため、自動的に数量が変更されました。"
+
+#~ msgid ""
+#~ "Because your request quantity exceeds available quantity, the quantity "
+#~ "was arranged automatically."
+#~ msgstr ""
+#~ "ご希望の数量が購入可能数量を超えたため、自動的に数量が変更されました。"
+
+#~ msgid "Not filled out in all required fields."
+#~ msgstr "未選択または未記入の項目があります。"
+
+#~ msgid "x"
+#~ msgstr " × "
+
+#~ msgid "Total quantity of choices is not matched ."
+#~ msgstr "選択総数が一致しません。"
+
+#~ msgid "<strong>ERROR</strong>: Please enter the name."
+#~ msgstr "<strong>エラー</strong>: お名前を入力してください。"
+
+#~ msgid "<strong>ERROR</strong>: Please enter the furigana."
+#~ msgstr "<strong>エラー</strong>: フリガナを入力してください。"
+
+#~ msgid "<strong>ERROR</strong>: Please enter the zipcode."
+#~ msgstr "<strong>エラー</strong>: 郵便番号を入力してください。"
+
+#~ msgid "<strong>ERROR</strong>: Please enter the prefecture."
+#~ msgstr "<strong>エラー</strong>: 都道府県を選択してください。"
+
+#~ msgid "<strong>ERROR</strong>: Please enter the address1."
+#~ msgstr "<strong>エラー</strong>: 都市区町村を入力してください。"
+
+#~ msgid "<strong>ERROR</strong>: Please enter the address2."
+#~ msgstr "<strong>エラー</strong>: 番地以降の住所を入力してください。"
+
+#~ msgid "<strong>ERROR</strong>: Please enter the telephone."
+#~ msgstr "<strong>エラー</strong>: 電話番号を入力してください。"
+
+#~ msgid "<strong>ERROR</strong>: Please enter the email."
+#~ msgstr "<strong>エラー</strong>: メールアドレスを入力してください。"
+
+#~ msgid "<strong>ERROR</strong>: Please select at least a shipping address."
+#~ msgstr "<strong>エラー</strong>: 送り先を選択してください。"
+
+#~ msgid "You do not have enough point"
+#~ msgstr "ポイントが不足しています。"
+
+#~ msgid "Reference Code: "
+#~ msgstr "リファレンスコード： "
+
+#~ msgid "Required"
+#~ msgstr "必須"
+
+#~ msgid "Today Sales"
+#~ msgstr "本日売上"
+
+#~ msgid "Yesterday Sales"
+#~ msgstr "昨日売上"
+
+#~ msgid "Current Month Sales"
+#~ msgstr "今月売上"
+
+#~ msgid "Last Month Sales"
+#~ msgstr "先月売上"
+
+#~ msgid "$ %s"
+#~ msgstr "%s 円"
+
+#~ msgid "Once Weekly"
+#~ msgstr "週1回"
+
+#~ msgid "Twice Weekly"
+#~ msgstr "週2回"
+
+#~ msgid "Once Monthly"
+#~ msgstr "月1回"
+
+#~ msgid "Address ID"
+#~ msgstr "配送先ID"
+
+#~ msgid "Last Name Furigana"
+#~ msgstr "セイ"
+
+#~ msgid "First Name Furigana"
+#~ msgstr "メイ"
+
+#~ msgid "Zipcode"
+#~ msgstr "郵便番号"
+
+#~ msgid "Prefecture"
+#~ msgstr "都道府県"
+
+#~ msgid "Address1"
+#~ msgstr "郡市区町村"
+
+#~ msgid "Address2"
+#~ msgstr "番地以降の住所"
+
+#~ msgid "Company"
+#~ msgstr "会社名"
+
+#~ msgid "Telephone"
+#~ msgstr "電話番号"
+
+#~ msgid "Added Datetime"
+#~ msgstr "追加日時"
+
+#~ msgid "<strong>ERROR</strong>: Failed to delete the address."
+#~ msgstr "<strong>エラー</strong>: 送り先の削除に失敗しました。"
+
+#~ msgid "<strong>ERROR</strong>: Failed to do the action."
+#~ msgstr "<strong>エラー</strong>: 一括操作に失敗しました。"
+
+#~ msgid "Address List"
+#~ msgstr "配送先リスト"
+
+#~ msgid "Display Options"
+#~ msgstr "表示項目設定"
+
+#~ msgid ""
+#~ "Please check the items which you want to see on the list and push the "
+#~ "\"Change and Display &raquo;\" button."
+#~ msgstr ""
+#~ "リストに表示させたい項目を選択し、\"変更表示 &raquo;\"ボタンを押してくださ"
+#~ "い。"
+
+#~ msgid "Order ID"
+#~ msgstr "注文ID"
+
+#~ msgid "Product ID"
+#~ msgstr "商品ID"
+
+#~ msgid "Affiliate Point"
+#~ msgstr "アフィリエイトポイント"
+
+#~ msgid "Affiliate Pending"
+#~ msgstr "アフィリエイト未確定"
+
+#~ msgid "Affiliate Process"
+#~ msgstr "アフィリエイト処理"
+
+#~ msgid "<strong>ERROR</strong>: Failed to delete the affiliate."
+#~ msgstr "<strong>エラー</strong>: アフィリエイトの削除に失敗しました。"
+
+#~ msgid "<strong>ERROR</strong>: Failed to delete the affiliate process."
+#~ msgstr "<strong>エラー</strong>: アフィリエイト処理の削除に失敗しました。"
+
+#~ msgid "<strong>ERROR</strong>: Failed to change the status of affiliates."
+#~ msgstr "<strong>エラー</strong>: アフィリエイトの状況の変更に失敗しました。"
+
+#~ msgid "<strong>ERROR</strong>: Failed to proceed affiliates."
+#~ msgstr "<strong>エラー</strong>: アフィリエイトの処理に失敗しました。"
+
+#~ msgid "Processed Affiliate History"
+#~ msgstr "処理済アフィリエイト履歴"
+
+#~ msgid "Unprocessed Affiliate Summary"
+#~ msgstr "未処理アフィリエイト集計"
+
+#~ msgid "Affiliate List"
+#~ msgstr "アフィリエイトリスト"
+
+#~ msgid "The status of affiliates has been changed."
+#~ msgstr "アフィリエイトの状況が変更されました。"
+
+#~ msgid "Affiliate Point:"
+#~ msgstr "アフィリエイトポイント："
+
+#~ msgid "and over"
+#~ msgstr "以上"
+
+#~ msgid "and under"
+#~ msgstr "以下"
+
+#~ msgid "From Date:"
+#~ msgstr "開始日時："
+
+#~ msgid "-"
+#~ msgstr "～"
+
+#~ msgid "To Date:"
+#~ msgstr "終了日時："
+
+#~ msgid "Limit:"
+#~ msgstr "表示数："
+
+#~ msgid "Affiliate Point Sum"
+#~ msgstr "アフィリエイトポイント合計"
+
+#~ msgid "Affiliate Count"
+#~ msgstr "アフィリエイト数"
+
+#~ msgid "Affiliate Fee"
+#~ msgstr "アフィリエイト手数料"
+
+#~ msgid "Processed Datetime"
+#~ msgstr "処理日時"
+
+#~ msgid "Breakdown"
+#~ msgstr "内訳"
+
+#~ msgid "Processed"
+#~ msgstr "処理済"
+
+#~ msgid "Proceed"
+#~ msgstr "処理する"
+
+#~ msgid "Unprocessed"
+#~ msgstr "未処理"
+
+#~ msgid "Defined"
+#~ msgstr "確定"
+
+#~ msgid "Pending"
+#~ msgstr "未確定"
+
+#~ msgid "%y"
+#~ msgstr "%y年"
+
+#~ msgid "%y-%m"
+#~ msgstr "%y年%m月"
+
+#~ msgid "%y-%m-%d"
+#~ msgstr "%y年%m月%d日"
+
+#~ msgid "Analysis Management"
+#~ msgstr "注文分析管理"
+
+#~ msgid "Sale Analysis"
+#~ msgstr "売上分析"
+
+#~ msgid "Product Sale Analysis"
+#~ msgstr "商品売上分析"
+
+#~ msgid "Daily Sales"
+#~ msgstr "日次売上"
+
+#~ msgid "Monthly Sales"
+#~ msgstr "月次売上"
+
+#~ msgid "Yearly Sales"
+#~ msgstr "年次売上"
+
+#~ msgid "Product Sales"
+#~ msgstr "商品売上高"
+
+#~ msgid "Total Sales"
+#~ msgstr "合計売上高"
+
+#~ msgid "Product Sale Analysis: %1$s-%2$s &raquo; %3$s-%4$s"
+#~ msgstr "商品売上分析： %1$s年%2$s月 ～ %3$s年%4$s月"
+
+#~ msgid "Product Sale Analysis: %1$s-%2$s-%3$s &raquo; %4$s-%5$s-%6$s"
+#~ msgstr "商品売上分析： %1$s年%2$s月%3$s日 ～ %4$s年%5$s月%6$s日"
+
+#~ msgid "Product Name"
+#~ msgstr "商品名"
+
+#~ msgid "Product Price"
+#~ msgstr "商品価格"
+
+#~ msgid "Sum"
+#~ msgstr "合計"
+
+#~ msgid "Sale Analysis: %1$s-%2$s &raquo; %3$s-%4$s"
+#~ msgstr "売上分析： %1$s年%2$s月 ～ %3$s年%4$s月"
+
+#~ msgid "Sale Analysis: %1$s-%2$s-%3$s &raquo; %4$s-%5$s-%6$s"
+#~ msgstr "売上分析： %1$s年%2$s月%3$s日 ～ %4$s年%5$s月%6$s日"
+
+#~ msgid "Date"
+#~ msgstr "日付"
+
+#~ msgid "Average"
+#~ msgstr "平均"
+
+#~ msgid "Coupon ID"
+#~ msgstr "クーポンID"
+
+#~ msgid "Coupon Code"
+#~ msgstr "クーポンコード"
+
+#~ msgid "Coupon Name"
+#~ msgstr "クーポン名"
+
+#~ msgid "Discount Price"
+#~ msgstr "割引額"
+
+#~ msgid "Discount Rate"
+#~ msgstr "割引率"
+
+#~ msgid "Times"
+#~ msgstr "回数"
+
+#~ msgid "Times Check"
+#~ msgstr "回数チェック"
+
+#~ msgid "Start Datetime"
+#~ msgstr "販売開始日時"
+
+#~ msgid "End Datetime"
+#~ msgstr "販売終了日時"
+
+#~ msgid ""
+#~ "<strong>ERROR</strong>: There is the same Coupon Code. Please input the "
+#~ "other Coupon Code."
+#~ msgstr ""
+#~ "<strong>エラー</strong>: すでに同名のクーポンコードがあります。別の商品"
+#~ "コードを入力してください。"
+
+#~ msgid "<strong>ERROR</strong>: Please input the Coupon Code."
+#~ msgstr "<strong>エラー</strong>: クーポンコードを入力してください。"
+
+#~ msgid "<strong>ERROR</strong>: Please input the Coupon Name."
+#~ msgstr "<strong>エラー</strong>: クーポン名を入力してください。"
+
+#~ msgid "<strong>ERROR</strong>: Use only alphanumerics in the Coupon Code."
+#~ msgstr ""
+#~ "<strong>エラー</strong>: クーポンコードは半角英数字しか使用できません。"
+
+#~ msgid ""
+#~ "<strong>ERROR</strong>: Maximum number of letters in the Coupon Name is "
+#~ "100."
+#~ msgstr "<strong>エラー</strong>: クーポン名の最大文字数は100文字です。"
+
+#~ msgid ""
+#~ "<strong>ERROR</strong>: Please input the discount price or discount rate."
+#~ msgstr "<strong>エラー</strong>: 割引額または割引率を入力してください。"
+
+#~ msgid "<strong>ERROR</strong>: Use only numerics in the discount price."
+#~ msgstr "<strong>エラー</strong>: 割引額は半角数字しか使用できません。"
+
+#~ msgid "<strong>ERROR</strong>: Use only numerics in the discount rate."
+#~ msgstr "<strong>エラー</strong>: 割引率は半角数字しか使用できません。"
+
+#~ msgid "<strong>ERROR</strong>: Use only numerics in the times."
+#~ msgstr "<strong>エラー</strong>: 回数は半角数字しか使用できません。"
+
+#~ msgid "<strong>ERROR</strong>: Failed to delete the coupon."
+#~ msgstr "<strong>エラー</strong>: クーポンの削除に失敗しました。"
+
+#~ msgid "<strong>ERROR</strong>: Failed to change the status of coupons."
+#~ msgstr "<strong>エラー</strong>: クーポン状況の変更に失敗しました。"
+
+#~ msgid "Add New Coupon"
+#~ msgstr "新規クーポン登録"
+
+#~ msgid "* Please use the alphanumeric characters as the coupon code."
+#~ msgstr "※ クーポンコードには英数字を使用してください。"
+
+#~ msgid "Yen"
+#~ msgstr "円"
+
+#~ msgid "Check the coupon times"
+#~ msgstr "クーポン回数をチェックする"
+
+#~ msgid "Coupon PHP Code after the last status is set"
+#~ msgstr "最終処理ステータスがセットされた際のクーポンPHPコード"
+
+#~ msgid "Coupon Start Date"
+#~ msgstr "クーポン開始日時"
+
+#~ msgid "Current datetime"
+#~ msgstr "現在日時"
+
+#~ msgid "Coupon End Date"
+#~ msgstr "クーポン終了日時"
+
+#~ msgid "Register the new coupon &raquo;"
+#~ msgstr "新しいクーポンを登録する &raquo;"
+
+#~ msgid "Edit Coupon"
+#~ msgstr "クーポン変更"
+
+#~ msgid "Update the coupon &raquo;"
+#~ msgstr "クーポンを更新する &raquo;"
+
+#~ msgid "Delete Coupon"
+#~ msgstr "クーポン削除"
+
+#~ msgid "Delete Coupon &raquo;"
+#~ msgstr "クーポン削除 &raquo;"
+
+#~ msgid "Coupon List"
+#~ msgstr "クーポンリスト"
+
+#~ msgid "Coupon updated."
+#~ msgstr "クーポンは更新されました。"
+
+#~ msgid "Coupon Registered."
+#~ msgstr "クーポンが登録されました。"
+
+#~ msgid "Coupon Deleted."
+#~ msgstr "クーポンは削除されました。"
+
+#~ msgid "Coupon Status Changed."
+#~ msgstr "クーポン状況が変更されました。"
+
+#~ msgid "Change times"
+#~ msgstr "回数の変更"
+
+#~ msgid "Copy"
+#~ msgstr "コピー"
+
+#~ msgid "Postal Transfer"
+#~ msgstr "郵便振替"
+
+#~ msgid "Cash on Delivery"
+#~ msgstr "代金引換"
+
+#~ msgid "Product Detail Template"
+#~ msgstr "商品詳細テンプレート"
+
+#~ msgid "Product Code"
+#~ msgstr "商品コード"
+
+#~ msgid "Quantity"
+#~ msgstr "数量"
+
+#~ msgid "Product List Template"
+#~ msgstr "商品リストテンプレート"
+
+#~ msgid "Recently Checked Template"
+#~ msgstr "最近チェックした商品テンプレート"
+
+#~ msgid "Order Confirmation for PC"
+#~ msgstr "ご注文確認（PC）"
+
+#~ msgid "Contact Number"
+#~ msgstr "お問い合わせ番号"
+
+#~ msgid "Order Date"
+#~ msgstr "ご注文日時"
+
+#~ msgid "Total Amount"
+#~ msgstr "合計金額"
+
+#~ msgid "Payment"
+#~ msgstr "支払"
+
+#~ msgid "Buying Info"
+#~ msgstr "ご注文者様"
+
+#~ msgid "Subtotal"
+#~ msgstr "小計"
+
+#~ msgid "Total"
+#~ msgstr "金額合計"
+
+#~ msgid "Shipping Mail for PC"
+#~ msgstr "発送メール（PC）"
+
+#~ msgid "Shipping Your Products"
+#~ msgstr "商品を発送いたしました"
+
+#~ msgid "We shipped your items."
+#~ msgstr "ご注文いただきました商品を発送いたしましたのでご連絡いたします。"
+
+#~ msgid "Credit Card"
+#~ msgstr "クレジットカード決済"
+
+#~ msgid "Bank Transfer"
+#~ msgstr "銀行振込"
+
+#~ msgid "Cash on Delivery Commission"
+#~ msgstr "代引手数料"
+
+#~ msgid "Ordinary Delivery"
+#~ msgstr "通常便"
+
+#~ msgid "Working"
+#~ msgstr "手配中"
+
+#~ msgid "Cancel"
+#~ msgstr "キャンセル"
+
+#~ msgid "History"
+#~ msgstr "ご購入履歴"
+
+#~ msgid "Wish List"
+#~ msgstr "ウィッシュリスト"
+
+#~ msgid "Affiliate"
+#~ msgstr "アフィリエイト"
+
+#~ msgid "State/Province"
+#~ msgstr "都道府県"
+
+#~ msgid "Telphone"
+#~ msgstr "電話番号"
+
+#~ msgid "Birthday"
+#~ msgstr "生年月日"
+
+#~ msgid "Point"
+#~ msgstr "ポイント"
+
+#~ msgid "FROM"
+#~ msgstr "FROM"
+
+#~ msgid "TO"
+#~ msgstr "TO"
+
+#~ msgid "CC"
+#~ msgstr "CC"
+
+#~ msgid "BCC"
+#~ msgstr "BCC"
+
+#~ msgid "Mail Template Name"
+#~ msgstr "メールテンプレート名"
+
+#~ msgid "Mail Body"
+#~ msgstr "メール本文"
+
+#~ msgid "Mailed Datetime"
+#~ msgstr "メール送信日時"
+
+#~ msgid "<strong>ERROR</strong>: Failed to delete the mail."
+#~ msgstr "<strong>エラー</strong>: メールの削除に失敗しました。"
+
+#~ msgid "Read Mail"
+#~ msgstr "送信メールを読む"
+
+#~ msgid "Load &raquo;"
+#~ msgstr "読込 &raquo;"
+
+#~ msgid "Send &raquo;"
+#~ msgstr "送信する &raquo;"
+
+#~ msgid ""
+#~ "Hokkaido,Aomori,Iwate,Miyagi,Akita,Yamagata,Fukushima,Ibaraki,Tochigi,"
+#~ "Gunma,Saitama,Chiba,Tokyo,Kanagawa,Niigata,Toyama,Ishikawa,Fukui,"
+#~ "Yamanashi,Nagano,Gifu,Shizuoka,Aichi,Mie,Shiga,Kyoto,Osaka,Hyogo,Nara,"
+#~ "Wakayama,Tottori,Shimane,Okayama,Hiroshima,Yamaguchi,Tokushima,Kagawa,"
+#~ "Ehime,Kochi,Fukuoka,Saga,Nagasaki,Kumamoto,Oita,Miyazaki,Kagoshima,Okinawa"
+#~ msgstr ""
+#~ "北海道,青森県,岩手県,宮城県,秋田県,山形県,福島県,茨城県,栃木県,群馬県,埼玉"
+#~ "県,千葉県,東京都,神奈川県,新潟県,富山県,石川県,福井県,山梨県,長野県,岐阜"
+#~ "県,静岡県,愛知県,三重県,滋賀県,京都府,大阪府,兵庫県,奈良県,和歌山県,鳥取"
+#~ "県,島根県,岡山県,広島県,山口県,徳島県,香川県,愛媛県,高知県,福岡県,佐賀県,"
+#~ "長崎県,熊本県,大分県,宮崎県,鹿児島県,沖縄県"
+
+#~ msgid "Frontend user admin data set up."
+#~ msgstr "フロントエンドユーザー管理データはセットアップされました。"
+
+#~ msgid ""
+#~ "Before you change the product post type, taxonomy, and tag, you need to "
+#~ "register the post type, taxonomy, and tag separately."
+#~ msgstr ""
+#~ "商品の投稿タイプ、カスタム分類、タグを変更する前に、投稿タイプ、カスタム分"
+#~ "類、タグを別途登録する必要があります。"
+
+#~ msgid "Tag"
+#~ msgstr "タグ"
+
+#~ msgid "Top Product Category"
+#~ msgstr "トップ商品カテゴリー"
+
+#~ msgid "Select Category"
+#~ msgstr "カテゴリーを選択してください"
+
+#~ msgid "Shopping Cart URL"
+#~ msgstr "ショッピングカートURL"
+
+#~ msgid "Email Receiving Orders"
+#~ msgstr "注文メールを受け取るメールアドレス"
+
+#~ msgid "Use Shopping Cart"
+#~ msgstr "ショッピングカートの使用"
+
+#~ msgid "Please check if you let users use the shopping cart."
+#~ msgstr ""
+#~ "ユーザーにショッピングカートを使用させる場合はチェックしてください。"
+
+#~ msgid "Use Checkout Method"
+#~ msgstr "購入手段選択の使用"
+
+#~ msgid "Please check if you let users use the checkout method page."
+#~ msgstr "ユーザーに購入手段選択を使用させる場合はチェックしてください。"
+
+#~ msgid "Please check if you let users use the billing information page."
+#~ msgstr "ユーザーに注文者情報を使用させる場合はチェックしてください。"
+
+#~ msgid "Use Shipping Information"
+#~ msgstr "送り先情報の使用"
+
+#~ msgid "Please check if you let users use the shipping information page."
+#~ msgstr "ユーザーに送り先情報を使用させる場合はチェックしてください。"
+
+#~ msgid "Use Multiple Shipping Information"
+#~ msgstr "複数送り先情報の使用"
+
+#~ msgid "Please check if you let users use the multiple shipping information."
+#~ msgstr "ユーザーに複数送り先を使用させる場合はチェックしてください。"
+
+#~ msgid "Use products in each shipping information"
+#~ msgstr "送り先ごとの商品変更の使用"
+
+#~ msgid ""
+#~ "Please check if you let users change products in each shipping "
+#~ "information."
+#~ msgstr "ユーザーに送り先ごとに商品を変更させる場合はチェックしてください。"
+
+#~ msgid "Use Payment Information"
+#~ msgstr "支払方法選択の使用"
+
+#~ msgid "Please check if you let users use the payment information page."
+#~ msgstr "ユーザーに支払方法選択を使用させる場合はチェックしてください。"
+
+#~ msgid "Use the order comment"
+#~ msgstr "注文時コメントの使用"
+
+#~ msgid "Please check if you let users input the order comment."
+#~ msgstr "ユーザーに注文時コメントを入力させる場合はチェックしてください。"
+
+#~ msgid "Use Order Review"
+#~ msgstr "確認画面の使用"
+
+#~ msgid "Please check if you let users use the order review page."
+#~ msgstr "ユーザーに確認画面を使用させる場合はチェックしてください。"
+
+#~ msgid "Enforce the user registration"
+#~ msgstr "ユーザー登録を強制する"
+
+#~ msgid "Please check if you urge users register in the order steps."
+#~ msgstr "注文時にユーザー登録を強制するにはチェックしてください。"
+
+#~ msgid "Enforce the guest order"
+#~ msgstr "ゲスト注文を強制する"
+
+#~ msgid ""
+#~ "Please check out `Use Checkout Method` if you enforce the guest order."
+#~ msgstr ""
+#~ "もしゲスト注文を強制する場合は、購入手段選択の使用のチェックを外してくださ"
+#~ "い。"
+
+#~ msgid "Not change quantity"
+#~ msgstr "数量を変更しない"
+
+#~ msgid "Please check if you let users not change the product quantity."
+#~ msgstr "ユーザーに数量変更させない場合はチェックしてください。"
+
+#~ msgid "Use Product Point"
+#~ msgstr "商品ポイントを使用する"
+
+#~ msgid "Please check if you let users use the product point."
+#~ msgstr "ユーザーに商品ポイントを使用させる場合はチェックしてください。"
+
+#~ msgid "Refresh the cart in each adding to the cart"
+#~ msgstr "カートに入れる度にカートをリフレッシュする"
+
+#~ msgid ""
+#~ "Please check if you would like to refresh the cart in each adding to the "
+#~ "cart."
+#~ msgstr ""
+#~ "カートに入れる度にカートをリフレッシュしたい場合はチェックしてください。"
+
+#~ msgid "Use Countdown"
+#~ msgstr "カウントダウンを使用する"
+
+#~ msgid "Please check if you would like to use the product countdown timer."
+#~ msgstr ""
+#~ "ユーザーに商品カウントダウンタイマーを使用させる場合はチェックしてくださ"
+#~ "い。"
+
+#~ msgid "Skip the checkout method while logging in"
+#~ msgstr "ログイン中は購入手段選択画面をスキップする"
+
+#~ msgid ""
+#~ "Please check if you would like to skip the checkout method while logging "
+#~ "in."
+#~ msgstr ""
+#~ "ログイン中は購入手段選択画面をスキップさせる場合はチェックしてください。"
+
+#~ msgid "Disable Furigana"
+#~ msgstr "フリガナを使用しない"
+
+#~ msgid "Please check if you would like to disable Furigana."
+#~ msgstr "フリガナを使用しない場合はチェックしてください。"
+
+#~ msgid "Disable Kana convert"
+#~ msgstr "半角カナ変換を使用しない"
+
+#~ msgid "Please check if you would like to disable Kana convert for mobile."
+#~ msgstr "携帯電話向けの半角カナ変換を使用しない場合はチェックしてください。"
+
+#~ msgid "Support the fluctuation search"
+#~ msgstr "表記ゆれ検索をサポートする"
+
+#~ msgid "Stock of limited availability"
+#~ msgstr "在庫僅少の在庫数"
+
+#~ msgid "Less this number will be treated as the limited availability."
+#~ msgstr "この数以下になると在庫僅少として扱われます。"
+
+#~ msgid "Minimum Point"
+#~ msgstr "最低利用可能ポイント"
+
+#~ msgid "Default Product Point Rate"
+#~ msgstr "デフォルト商品ポイント付与率"
+
+#~ msgid "Point Coverage"
+#~ msgstr "ポイント対象"
+
+#~ msgid "Tax Excluded Price"
+#~ msgstr "商品価格（税抜）"
+
+#~ msgid "Product Price: tax-excluded automatic calculation"
+#~ msgstr "商品価格（税抜自動計算）"
+
+#~ msgid "Consumption Tax"
+#~ msgstr "消費税"
+
+#~ msgid "Default Product List Order"
+#~ msgstr "デフォルト商品リスト並び順"
+
+#~ msgid "Menu Order"
+#~ msgstr "順序"
+
+#~ msgid "Post Date"
+#~ msgstr "日時"
+
+#~ msgid "Ascending Order"
+#~ msgstr "昇順"
+
+#~ msgid "Descending Order"
+#~ msgstr "降順"
+
+#~ msgid "Delete sessions before the following time"
+#~ msgstr "以下の時間以前のセッションを削除する"
+
+#~ msgid "Thank You Alternative URL"
+#~ msgstr "注文完了画面代替URL"
+
+#~ msgid "Required Mark"
+#~ msgstr "必須マーク"
+
+#~ msgid "User Name Field"
+#~ msgstr "ユーザー名フィールド"
+
+#~ msgid "Use Style Sheet"
+#~ msgstr "スタイルシートの使用"
+
+#~ msgid "Load the CSS file."
+#~ msgstr "CSSファイルを読み込む"
+
+#~ msgid "Maintenance Mode"
+#~ msgstr "メンテナンスモード"
+
+#~ msgid "Please check if you make the site under the maintenace."
+#~ msgstr "サイトをメンテナンス中にする場合はチェックしてください。"
+
+#~ msgid "Disable the order"
+#~ msgstr "注文確定の禁止"
+
+#~ msgid "Please check if you would like to disable the order."
+#~ msgstr "注文の確定を禁止したい場合はチェックしてください。"
+
+#~ msgid "Admin CSS"
+#~ msgstr "管理画面CSS"
+
+#~ msgid "Default List Number"
+#~ msgstr "デフォルトリスト数"
+
+#~ msgid "Product List"
+#~ msgstr "商品リスト"
+
+#~ msgid "Order List"
+#~ msgstr "注文リスト"
+
+#~ msgid "Point List"
+#~ msgstr "ポイントリスト"
+
+#~ msgid "Recommend List"
+#~ msgstr "レコメンドリスト"
+
+#~ msgid "User Level of this plugin"
+#~ msgstr "プラグインの設定ユーザーレベル"
+
+#~ msgid ""
+#~ "Please select the ability which the user role of this plugin can have. "
+#~ "The admin user can manage everything."
+#~ msgstr ""
+#~ "プラグインの設定権限の内容を選択してください。管理者ユーザーは全てを管理で"
+#~ "きます。"
+
+#~ msgid "Product Management (Limit)"
+#~ msgstr "商品管理 （制限）"
+
+#~ msgid "Option Management"
+#~ msgstr "オプション設定"
+
+#~ msgid "Product Template"
+#~ msgstr "商品テンプレート"
+
+#~ msgid ""
+#~ "If you delete the template name and save it, the template will be deleted."
+#~ msgstr "テンプレート名を削除して保存すると、テンプレートは削除されます。"
+
+#~ msgid "Product Meta Addition"
+#~ msgstr "商品項目の追加"
+
+#~ msgid "Field Label"
+#~ msgstr "フィールドラベル"
+
+#~ msgid "Field Name"
+#~ msgstr "フィールド名"
+
+#~ msgid "Field Type"
+#~ msgstr "フィールドタイプ"
+
+#~ msgid "Default Value"
+#~ msgstr "初期値"
+
+#~ msgid "Comment"
+#~ msgstr "コメント"
+
+#~ msgid "Advanced"
+#~ msgstr "アドバンスト"
+
+#~ msgid "Linkage"
+#~ msgstr "連携"
+
+#~ msgid "Min Letters"
+#~ msgstr "最小文字数"
+
+#~ msgid "Max Letters"
+#~ msgstr "最大文字数"
+
+#~ msgid "Numeric"
+#~ msgstr "数字"
+
+#~ msgid "Alphabet"
+#~ msgstr "英字"
+
+#~ msgid "Alphanumeric"
+#~ msgstr "英数字"
+
+#~ msgid "Half width"
+#~ msgstr "半角"
+
+#~ msgid "Message Options"
+#~ msgstr "メッセージオプション"
+
+#~ msgid "Shopping Cart Message Middle"
+#~ msgstr "ショッピングカートメッセージ中部"
+
+#~ msgid "Shopping Cart Message Bottom"
+#~ msgstr "ショッピングカートメッセージ下部"
+
+#~ msgid "Checkout Method Message Top"
+#~ msgstr "購入手段選択メッセージ上部"
+
+#~ msgid "Checkout Method Message Middle"
+#~ msgstr "購入手段選択メッセージ中部"
+
+#~ msgid "Checkout Method Message Bottom"
+#~ msgstr "購入手段選択メッセージ下部"
+
+#~ msgid "Billing Information Input Message Top"
+#~ msgstr "注文者情報入力メッセージ上部"
+
+#~ msgid "Billing Information Input Message Middle"
+#~ msgstr "注文者情報入力メッセージ中部"
+
+#~ msgid "Billing Information Input Message Bottom"
+#~ msgstr "注文者情報入力メッセージ下部"
+
+#~ msgid "Billing Information Message Top"
+#~ msgstr "注文者情報メッセージ上部"
+
+#~ msgid "Billing Information Message Middle"
+#~ msgstr "注文者情報メッセージ中部"
+
+#~ msgid "Billing Information Message Bottom"
+#~ msgstr "注文者情報メッセージ下部"
+
+#~ msgid "Shipping Information Message Top"
+#~ msgstr "送り先情報メッセージ上部"
+
+#~ msgid "Shipping Information Message Middle"
+#~ msgstr "送り先情報メッセージ中部"
+
+#~ msgid "Shipping Information Message Bottom"
+#~ msgstr "送り先情報メッセージ下部"
+
+#~ msgid "Payment Information Message Top"
+#~ msgstr "支払情報メッセージ上部"
+
+#~ msgid "Payment Information Message Middle"
+#~ msgstr "支払情報メッセージ中部"
+
+#~ msgid "Payment Information Message Bottom"
+#~ msgstr "支払情報メッセージ下部"
+
+#~ msgid "Order Review Message Top"
+#~ msgstr "確認画面メッセージ上部"
+
+#~ msgid "Order Review Message middle"
+#~ msgstr "確認画面メッセージ中部"
+
+#~ msgid "Order Review Message Bottom"
+#~ msgstr "確認画面メッセージ下部"
+
+#~ msgid "Thank You Message Top"
+#~ msgstr "ご注文ありがとうメッセージ上部"
+
+#~ msgid "Thank You Message Middle"
+#~ msgstr "ご注文ありがとうメッセージ中部"
+
+#~ msgid "Thank You Message Bottom"
+#~ msgstr "ご注文ありがとうメッセージ下部"
+
+#~ msgid "Buying History Message Top"
+#~ msgstr "ご購入履歴メッセージ上部"
+
+#~ msgid "Buying History Message Middle"
+#~ msgstr "ご購入履歴メッセージ中部"
+
+#~ msgid "Buying History Message Bottom"
+#~ msgstr "ご購入履歴メッセージ下部"
+
+#~ msgid "Affiliate Message Top"
+#~ msgstr "アフィリエイトメッセージ上部"
+
+#~ msgid "Affiliate Message Middle"
+#~ msgstr "アフィリエイトメッセージ中部"
+
+#~ msgid "Affiliate Message Bottom"
+#~ msgstr "アフィリエイトメッセージ下部"
+
+#~ msgid "Wish List Message Top"
+#~ msgstr "ウィッシュリストメッセージ上部"
+
+#~ msgid "Wish List Message Middle"
+#~ msgstr "ウィッシュリストメッセージ中部"
+
+#~ msgid "Wish List Message Bottom"
+#~ msgstr "ウィッシュリストメッセージ下部"
+
+#~ msgid "Default CC"
+#~ msgstr "デフォルトCC"
+
+#~ msgid "Default BCC"
+#~ msgstr "デフォルトBCC"
+
+#~ msgid "Order Confirmation Mail for PC"
+#~ msgstr "ご注文確認メール（PC）"
+
+#~ msgid "Order Confirmation Mail for Mobile"
+#~ msgstr "ご注文確認メール（携帯）"
+
+#~ msgid "Automatic Mail after the last status is set for PC"
+#~ msgstr "最終処理ステータスがセットされた際の自動配信メール（PC）"
+
+#~ msgid "Automatic Mail after the last status is set for Mobile"
+#~ msgstr "最終処理ステータスがセットされた際の自動配信メール（携帯）"
+
+#~ msgid "Mobile Mail Address Domain"
+#~ msgstr "携帯メールアドレスドメイン"
+
+#~ msgid "Following domains are distinguished as mobile mail addresses."
+#~ msgstr "以下で指定されるドメインは携帯メールアドレスとして識別されます。"
+
+#~ msgid "Signature Template"
+#~ msgstr "署名テンプレート"
+
+#~ msgid "[order field=signature_template] will be replaced by the following."
+#~ msgstr ""
+#~ "[order field=signature_template] は署名テンプレートで置き換えられます。"
+
+#~ msgid ""
+#~ "Please check if you would like to send order mails to the product "
+#~ "register users."
+#~ msgstr "商品登録ユーザーに注文メールを送信する場合はチェックしてください。"
+
+#~ msgid "Limit only registered products"
+#~ msgstr "登録商品に限定する"
+
+#~ msgid ""
+#~ "Please check if you would like to limit only registered products when "
+#~ "sending order mails to the product register users."
+#~ msgstr ""
+#~ "商品登録ユーザーに注文メールを送信する際に登録した商品に限定したい場合は"
+#~ "チェックしてください。"
+
+#~ msgid ""
+#~ "If you delete the mail template name and save it, the mail template will "
+#~ "be deleted."
+#~ msgstr ""
+#~ "メールテンプレート名を削除して保存すると、メールテンプレートは削除されま"
+#~ "す。"
+
+#~ msgid "PC or MB"
+#~ msgstr "PC or 携帯"
+
+#~ msgid "For PC users"
+#~ msgstr "PCユーザー向け"
+
+#~ msgid "For Mobile users"
+#~ msgstr "携帯ユーザー向け"
+
+#~ msgid "Payment Options"
+#~ msgstr "支払オプション"
+
+#~ msgid "Use"
+#~ msgstr "使用する"
+
+#~ msgid "Not Use"
+#~ msgstr "使用しない"
+
+#~ msgid "Both"
+#~ msgstr "両方"
+
+#~ msgid "Only PC"
+#~ msgstr "PCのみ"
+
+#~ msgid "Only MB"
+#~ msgstr "携帯のみ"
+
+#~ msgid "Payment Name"
+#~ msgstr "支払名"
+
+#~ msgid "Settlement Module"
+#~ msgstr "決済モジュール"
+
+#~ msgid "Paypal"
+#~ msgstr "ペイパル"
+
+#~ msgid "Epsilon"
+#~ msgstr "イプシロン"
+
+#~ msgid "Veritrans"
+#~ msgstr "ベリトランス"
+
+#~ msgid "J-PAYMENT"
+#~ msgstr "J-PAYMENT"
+
+#~ msgid "SMBC Finance Service"
+#~ msgstr "SMBCファイナンスサービス"
+
+#~ msgid "Commission Name"
+#~ msgstr "手数料名"
+
+#~ msgid "Commission"
+#~ msgstr "手数料"
+
+#~ msgid "% +"
+#~ msgstr "％ ＋ "
+
+#~ msgid "Pay only by point."
+#~ msgstr "ポイントのみで支払う"
+
+#~ msgid "Order Status after fixing"
+#~ msgstr "注文後の処理状況"
+
+#~ msgid "PC Display"
+#~ msgstr "支払方法選択画面表示項目（PC）"
+
+#~ msgid "MB Display"
+#~ msgstr "支払方法選択画面表示項目（携帯）"
+
+#~ msgid "PC Thank You"
+#~ msgstr "注文完了画面表示項目（PC）"
+
+#~ msgid "MB Thank You"
+#~ msgstr "注文完了画面表示項目（携帯）"
+
+#~ msgid "PC Mail"
+#~ msgstr "メール表示項目（PC）"
+
+#~ msgid "Settlement Module Options"
+#~ msgstr "決済モジュールオプション"
+
+#~ msgid "Shipping Options"
+#~ msgstr "配送オプション"
+
+#~ msgid ""
+#~ "If you delete the shipping name and save it, the shipping will be deleted."
+#~ msgstr "配送名を削除して保存すると、配送は削除されます。"
+
+#~ msgid "Shipping"
+#~ msgstr "配送"
+
+#~ msgid "Shipping Name"
+#~ msgstr "配送名"
+
+#~ msgid "Pref"
+#~ msgstr "都道府県名"
+
+#~ msgid "Basic Postage"
+#~ msgstr "基本送料"
+
+#~ msgid "Size %s"
+#~ msgstr "サイズ %s"
+
+#~ msgid "Selectable Date"
+#~ msgstr "選択可能日"
+
+#~ msgid "Today"
+#~ msgstr "当日"
+
+#~ msgid "%d days after"
+#~ msgstr "%d日後"
+
+#~ msgid "Please input the conditions of postage."
+#~ msgstr "送料の条件を入力してください。"
+
+#~ msgid ""
+#~ "Please input the additional postage when the dellivery is included in the "
+#~ "price."
+#~ msgstr "送料込時の追加送料を入力してください。"
+
+#~ msgid "Additional Postage"
+#~ msgstr "追加送料"
+
+#~ msgid "Not Use Delivery"
+#~ msgstr "配送方法を使用しない"
+
+#~ msgid "Please check if you let users not to choose the delivery way."
+#~ msgstr "ユーザーにこの配送方法を使用させない場合はチェックしてください。"
+
+#~ msgid "Use Delivery Date"
+#~ msgstr "配達希望日指定を使用する"
+
+#~ msgid "Please check if you let users to choose the delivery date."
+#~ msgstr "ユーザーに配達希望日指定を使用させる場合はチェックしてください。"
+
+#~ msgid "Use Delivery Time"
+#~ msgstr "配達時間帯を使用する"
+
+#~ msgid "Please check if you let users to choose the delivery time."
+#~ msgstr "ユーザーに配達時間帯を使用させる場合はチェックしてください。"
+
+#~ msgid "Please input the default delivery time zone."
+#~ msgstr "デフォルトの配達時間帯を入力してください。"
+
+#~ msgid "Shipping message"
+#~ msgstr "配送メッセージ"
+
+#~ msgid "Gift Noshi Options"
+#~ msgstr "ギフトのしオプション"
+
+#~ msgid "Use Gift Wrapping"
+#~ msgstr "ギフト包装を使用する"
+
+#~ msgid "Please check if you give the service of gift wrapping."
+#~ msgstr "ギフト包装を提供する場合はチェックしてください。"
+
+#~ msgid "Gift Wrapping Name"
+#~ msgstr "ギフト包装名"
+
+#~ msgid "Gift Wrapping Cost"
+#~ msgstr "ギフト包装費用"
+
+#~ msgid "Gift Wrapping Detail"
+#~ msgstr "ギフト包装詳細"
+
+#~ msgid "Use Noshi"
+#~ msgstr "のしを使用する"
+
+#~ msgid "Please check if you give the service of Noshi."
+#~ msgstr "のしを使用する場合はチェックしてください。"
+
+#~ msgid "Use Noshi Free"
+#~ msgstr "のしを自由に入力できるようにする"
+
+#~ msgid "Please check if you give the service of Noshi Free."
+#~ msgstr "のしを自由に入力できるようにする場合はチェックしてください。"
+
+#~ msgid "Please input the default Noshi labels."
+#~ msgstr "デフォルトののし項目を入力してください。"
+
+#~ msgid "Order Status Options"
+#~ msgstr "処理状況オプション"
+
+#~ msgid "Sum Zero Status"
+#~ msgstr "合計金額が0円時の処理ステータス"
+
+#~ msgid ""
+#~ "Please check if you would like to set the last status when the sum is "
+#~ "zero."
+#~ msgstr ""
+#~ "合計金額が0円時に最終処理ステータスをセットする場合はチェックしてくださ"
+#~ "い。"
+
+#~ msgid "Last Status"
+#~ msgstr "処理確定ステータス"
+
+#~ msgid "Cancel Status"
+#~ msgstr "キャンセル状況"
+
+#~ msgid "Order Step Options"
+#~ msgstr "注文ステップオプション"
+
+#~ msgid "Refresh Cart"
+#~ msgstr "リフレッシュカート"
+
+#~ msgid "Payment Method"
+#~ msgstr "支払方法"
+
+#~ msgid "Output Options"
+#~ msgstr "出力オプション"
+
+#~ msgid "This option is experimental. Please do not set anything nomally."
+#~ msgstr "このオプションは実験中です。通常は設定しないでください。"
+
+#~ msgid "Shopping Cart Code"
+#~ msgstr "ショッピングカートコード"
+
+#~ msgid "Load the initial code"
+#~ msgstr "初期コードの読込"
+
+#~ msgid "For Mobile"
+#~ msgstr "携帯電話向け"
+
+#~ msgid "Checkout Method Code"
+#~ msgstr "購入手段選択コード"
+
+#~ msgid "Billing Information Code"
+#~ msgstr "注文者情報コード"
+
+#~ msgid "Billing Information Input Code"
+#~ msgstr "注文者情報入力コード"
+
+#~ msgid "Shipping Information Code"
+#~ msgstr "送り先情報コード"
+
+#~ msgid "Shipping Address Code"
+#~ msgstr "配送先コード"
+
+#~ msgid "Shipping Address Input Code"
+#~ msgstr "配送先入力コード"
+
+#~ msgid "Payment Information Code"
+#~ msgstr "支払方法選択コード"
+
+#~ msgid "Order Review Code"
+#~ msgstr "確認画面コード"
+
+#~ msgid "Thank You Code"
+#~ msgstr "注文完了コード"
+
+#~ msgid "Service Unavailable Code"
+#~ msgstr "サービス利用不可コード"
+
+#~ msgid "Flow Code"
+#~ msgstr "ご注文の流れコード"
+
+#~ msgid "Common Cart Code"
+#~ msgstr "共通カートコード"
+
+#~ msgid "Buying History Code"
+#~ msgstr "ご購入履歴コード"
+
+#~ msgid "Wish List Code"
+#~ msgstr "ウィッシュリストコード"
+
+#~ msgid "Address Product Code for Mail"
+#~ msgstr "メール用配送先商品コード"
+
+#~ msgid "Use the coupon"
+#~ msgstr "クーポンを使用する"
+
+#~ msgid "Show the coupon menu"
+#~ msgstr "クーポンメニューを表示する"
+
+#~ msgid "Affiliate Options"
+#~ msgstr "アフィリエイトオプション"
+
+#~ msgid "Own Affiliate"
+#~ msgstr "アフィリエイト"
+
+#~ msgid "Use own affiliate"
+#~ msgstr "アフィリエイトを使用する"
+
+#~ msgid "Show the affiliate menu"
+#~ msgstr "アフィリエイトメニューを表示する"
+
+#~ msgid "Apply to all products"
+#~ msgstr "全商品に適用する"
+
+#~ msgid "Admit the self purchase."
+#~ msgstr "自己買いを認める"
+
+#~ msgid "Reset the cookie after the one time purchase."
+#~ msgstr "一度購入したらクッキーをリセットする"
+
+#~ msgid "Check the referer."
+#~ msgstr "リファラーをチェックする"
+
+#~ msgid "Affiliate Coverage"
+#~ msgstr "アフィリエイト対象"
+
+#~ msgid "Percentage"
+#~ msgstr "パーセンテージ"
+
+#~ msgid "Cookie Lifetime"
+#~ msgstr "クッキー生存時間"
+
+#~ msgid ""
+#~ "Please create the user attribute of this field name with the unique "
+#~ "checkbox."
+#~ msgstr ""
+#~ "一意にチェックを入れたこのフィールド名を持つユーザー属性を作成してくださ"
+#~ "い。"
+
+#~ msgid "Query Variable Name"
+#~ msgstr "クエリ変数名"
+
+#~ msgid "User Attribute alternative on the affiliate list"
+#~ msgstr "アフィリエイトリストの代替ユーザー属性"
+
+#~ msgid "Affiliate Process Code"
+#~ msgstr "アフィリエイト処理コード"
+
+#~ msgid "Use A8FLY"
+#~ msgstr "A8FLYを使用する"
+
+#~ msgid "Program ID"
+#~ msgstr "プログラムID"
+
+#~ msgid "Recommend Options"
+#~ msgstr "レコメンドオプション"
+
+#~ msgid "Show the Recommend menu"
+#~ msgstr "レコメンドメニューを表示する"
+
+#~ msgid "Aggregation:"
+#~ msgstr "集計："
+
+#~ msgid "Buy - Buy"
+#~ msgstr "購入 － 購入"
+
+#~ msgid "Check - Check"
+#~ msgstr "表示 － 表示"
+
+#~ msgid "Aggregate the Recommend products according to the following timing."
+#~ msgstr "以下のタイミングに応じてレコメンド商品を集計する"
+
+#~ msgid "Wish List Options"
+#~ msgstr "ウィッシュリストオプション"
+
+#~ msgid "Show the Wish List menu"
+#~ msgstr "ウィッシュリストメニューを表示する"
+
+#~ msgid "Download Options"
+#~ msgstr "ダウンロードオプション"
+
+#~ msgid "Download Absolute Path"
+#~ msgstr "ダウンロード絶対パス"
+
+#~ msgid "Please specify not the url but the server absolute path"
+#~ msgstr "URLではなくサーバーの絶対パスを入力してください。"
+
+#~ msgid "Download File Name Rule"
+#~ msgstr "ダウンロードファイル名ルール"
+
+#~ msgid ""
+#~ "You can use the following replace code: %filename% %extension% %author_id"
+#~ "% %product_id% %product_code%"
+#~ msgstr ""
+#~ "以下の置換コードをご使用になれます：%filename% %extension% %author_id% "
+#~ "%product_id% %product_code%"
+
+#~ msgid "The default is set to %filename%.%extension%"
+#~ msgstr "デフォルトでは、%filename%.%extension% にセットされています。"
+
+#~ msgid "Download File Name Overwrite"
+#~ msgstr "ダウンロードファイル名上書き"
+
+#~ msgid ""
+#~ "If you want to overwrite the existing file name, please check this. If "
+#~ "not and the same file name exits, the file name will be numbered serially."
+#~ msgstr ""
+#~ "すでに存在しているファイル名を上書きする場合はチェックを入れてください。"
+#~ "チェックしない場合で同名ファイルがある場合は通し番号が割り当てられます。"
+
+#~ msgid "Disabled Options"
+#~ msgstr "禁止項目"
+
+#~ msgid "Please check the options you would not like to use:"
+#~ msgstr "使用したくないオプションにチェックを入れてください："
+
+#~ msgid "Download Times"
+#~ msgstr "ダウンロード回数"
+
+#~ msgid "Download Expiration"
+#~ msgstr "ダウンロード有効期間"
+
+#~ msgid "User Attribute Name: Product ID"
+#~ msgstr "ユーザー属性名： 商品ID"
+
+#~ msgid "User Attribute Name: Product Code"
+#~ msgstr "ユーザー属性名： 商品コード"
+
+#~ msgid "Google Shopping Options"
+#~ msgstr "Googleショッピングオプション"
+
+#~ msgid "Create or regenerate the google shopping xml."
+#~ msgstr "GoogleショッピングXMLを生成または再生成する"
+
+#~ msgid "product.xml does not exist. Please create the file."
+#~ msgstr "product.xml が存在しません。ファイルを作成してください。"
+
+#~ msgid ""
+#~ "product.xml is not writtable. Please check the permission of the file."
+#~ msgstr ""
+#~ "product.xml の書き込み権限がありません。ファイルのパーミッションをチェック"
+#~ "してください。"
+
+#~ msgid "product.xml was last modified:"
+#~ msgstr "product.xml の最終更新日："
+
+#~ msgid "Regenerate the google shopping xml every time of the product update."
+#~ msgstr "商品更新時に毎回GoogleショッピングXMLを再生成する"
+
+#~ msgid ""
+#~ "Regenerate the google shopping xml according to the following timing."
+#~ msgstr "以下のタイミングに応じてGoogleショッピングXMLを再生成する"
+
+#~ msgid "PHP Code for Product Template"
+#~ msgstr "商品テンプレート用PHPコード"
+
+#~ msgid "CODE"
+#~ msgstr "CODE"
+
+#~ msgid "Product Special Options"
+#~ msgstr "商品特別オプション"
+
+#~ msgid "Product registration point user attribute"
+#~ msgstr "商品登録ポイントユーザー属性"
+
+#~ msgid "Personal product registration point user attribute"
+#~ msgstr "個別商品登録ポイントユーザー属性"
+
+#~ msgid "Personal product registration point rate user attribute"
+#~ msgstr "個別商品登録ポイント率ユーザー属性"
+
+#~ msgid "Consumption product registration point"
+#~ msgstr "消費商品登録ポイント"
+
+#~ msgid "Consumption product registration point rate"
+#~ msgstr "消費商品登録ポイント率"
+
+#~ msgid "Product Register PHP Code"
+#~ msgstr "商品登録PHPコード"
+
+#~ msgid "Product Edit PHP Code"
+#~ msgstr "商品編集PHPコード"
+
+#~ msgid "Tax Converter"
+#~ msgstr "消費税変換ツール"
+
+#~ msgid ""
+#~ "Are you sure to convert the product price based on the tax excluded "
+#~ "price? The current price will be replaced."
+#~ msgstr ""
+#~ "本当に商品価格（税抜き）を基準に価格を変換してもよろしいですか？現在の価格"
+#~ "は置き換えられます。"
+
+#~ msgid "Target:"
+#~ msgstr "ターゲット："
+
+#~ msgid "Catalogue Price"
+#~ msgstr "商品定価"
+
+#~ msgid "Rate:"
+#~ msgstr "税率："
+
+#~ msgid "Cut off"
+#~ msgstr "切り捨て"
+
+#~ msgid "Round off"
+#~ msgstr "四捨五入"
+
+#~ msgid "Cut out"
+#~ msgstr "切り上げ"
+
+#~ msgid "Carry out &raquo;"
+#~ msgstr "実行する &raquo;"
+
+#~ msgid "Post Type Converter"
+#~ msgstr "投稿タイプ変換ツール"
+
+#~ msgid "Are you sure to convert the product post type?"
+#~ msgstr "商品の投稿タイプを変換してもよろしいですか？"
+
+#~ msgid ""
+#~ "It will convert the product post type as a whole into the current post "
+#~ "type."
+#~ msgstr "商品の投稿タイプを現在の投稿タイプにまとめて変換します。"
+
+#~ msgid "Set up frontend user admin data."
+#~ msgstr "フロントエンドユーザー管理データをセットアップ"
+
+#~ msgid ""
+#~ "Are you sure to set up frontend user admin data? Current data will be "
+#~ "replaced."
+#~ msgstr ""
+#~ "本当にフロントエンドユーザー管理のデータをセットアップしてもよろしいです"
+#~ "か？現在のデータは置き換えられます。"
+
+#~ msgid "Set up frontend user admin data &raquo;"
+#~ msgstr "フロントエンドユーザー管理データをセットアップする &raquo;"
+
+#~ msgid "Contact ID"
+#~ msgstr "問い合わせID"
+
+#~ msgid "Postage"
+#~ msgstr "送料"
+
+#~ msgid "Use Point"
+#~ msgstr "使用ポイント"
+
+#~ msgid "Get Point"
+#~ msgstr "獲得ポイント"
+
+#~ msgid "Discount"
+#~ msgstr "割引"
+
+#~ msgid "Memo"
+#~ msgstr "メモ"
+
+#~ msgid "Deposit Datetime"
+#~ msgstr "入金日"
+
+#~ msgid "Order Status"
+#~ msgstr "処理状況"
+
+#~ msgid "Ordered Datetime"
+#~ msgstr "注文日時"
+
+#~ msgid "Billing Last Name"
+#~ msgstr "注文者姓"
+
+#~ msgid "Billing First Name"
+#~ msgstr "注文者名"
+
+#~ msgid "Billing Last Name Furigana"
+#~ msgstr "注文者セイ"
+
+#~ msgid "Billing First Name Furigana"
+#~ msgstr "注文者メイ"
+
+#~ msgid "Billing Zipcode"
+#~ msgstr "注文者郵便番号"
+
+#~ msgid "Billing Prefecture"
+#~ msgstr "注文者都道府県"
+
+#~ msgid "Billing Address1"
+#~ msgstr "注文者住所1"
+
+#~ msgid "Billing Address2"
+#~ msgstr "注文者住所2"
+
+#~ msgid "Billing Company"
+#~ msgstr "注文者会社"
+
+#~ msgid "Billing Telephone"
+#~ msgstr "注文者電話番号"
+
+#~ msgid "Billing Email"
+#~ msgstr "注文者Email"
+
+#~ msgid "Shipping ID"
+#~ msgstr "配送先ID"
+
+#~ msgid "Shipping Address Last Name"
+#~ msgstr "配送先姓"
+
+#~ msgid "Shipping Address First Name"
+#~ msgstr "配送先名"
+
+#~ msgid "Shipping Address Last Name Furigana"
+#~ msgstr "配送先セイ"
+
+#~ msgid "Shipping Address First Name Furigana"
+#~ msgstr "配送先メイ"
+
+#~ msgid "Shipping Address Zipcode"
+#~ msgstr "配送先郵便番号"
+
+#~ msgid "Shipping Address Prefecture"
+#~ msgstr "配送先都道府県"
+
+#~ msgid "Shipping Address Address1"
+#~ msgstr "配送先住所１"
+
+#~ msgid "Shipping Address Address2"
+#~ msgstr "配送先住所2"
+
+#~ msgid "Shipping Address Company"
+#~ msgstr "配送先会社"
+
+#~ msgid "Shipping Address Telephone"
+#~ msgstr "配送先電話番号"
+
+#~ msgid "Shipping Address Gift"
+#~ msgstr "配送先ギフト"
+
+#~ msgid "Shipping Address Noshi"
+#~ msgstr "配送先のし"
+
+#~ msgid "Shipping Address Delivery Name"
+#~ msgstr "配送名"
+
+#~ msgid "Shipping Address Delivery Date"
+#~ msgstr "配達希望日"
+
+#~ msgid "Shipping Address Delivery Time"
+#~ msgstr "配達時間"
+
+#~ msgid "Shipping Address Shipping Date"
+#~ msgstr "配達日"
+
+#~ msgid "Shipping Address Shipping Number"
+#~ msgstr "お荷物伝票番号"
+
+#~ msgid "Ordered Product ID"
+#~ msgstr "注文商品ID"
+
+#~ msgid "Product Quantity"
+#~ msgstr "商品数"
+
+#~ msgid "Product Free"
+#~ msgstr "自由項目"
+
+#~ msgid "<strong>ERROR</strong>: Failed to change the status of orders."
+#~ msgstr "<strong>エラー</strong>: 注文の処理状況の変更に失敗しました。"
+
+#~ msgid "<strong>ERROR</strong>: Failed to delete the order."
+#~ msgstr "<strong>エラー</strong>: 注文の削除に失敗しました。"
+
+#~ msgid "Order Detail"
+#~ msgstr "注文詳細"
+
+#~ msgid "Zipcode Mark"
+#~ msgstr "〒"
+
+#~ msgid "Mail"
+#~ msgstr "メール"
+
+#~ msgid "Deposit Date"
+#~ msgstr "入金日"
+
+#~ msgid "This day"
+#~ msgstr "今日付"
+
+#~ msgid "(For Management)"
+#~ msgstr "（管理用）"
+
+#~ msgid "Gift Noshi"
+#~ msgstr "ギフトのし"
+
+#~ msgid "Delivery Way and Delivery Datetime"
+#~ msgstr "配送方法・配達希望日時"
+
+#~ msgid "Shipping Date"
+#~ msgstr "発送日"
+
+#~ msgid "Products"
+#~ msgstr "商品"
+
+#~ msgid "Shipping Number"
+#~ msgstr "配送伝票番号"
+
+#~ msgid "TEL"
+#~ msgstr "電話番号"
+
+#~ msgid "MAIL"
+#~ msgstr "メール"
+
+#~ msgid "Back to Order Detail &raquo;"
+#~ msgstr "注文詳細に戻る &raquo;"
+
+#~ msgid "Gift"
+#~ msgstr "ギフト"
+
+#~ msgid "Noshi"
+#~ msgstr "のし"
+
+#~ msgid "Delivery Way"
+#~ msgstr "配送方法"
+
+#~ msgid "Delivery Time"
+#~ msgstr "配達時間帯"
+
+#~ msgid "The status of orders has been changed."
+#~ msgstr "注文の処理状況が変更されました。"
+
+#~ msgid "[Billing Information]"
+#~ msgstr "[注文者]"
+
+#~ msgid "[Shipping Information]"
+#~ msgstr "[送り先]"
+
+#~ msgid "Export Order Data"
+#~ msgstr "注文データエクスポート"
+
+#~ msgid "The order data will be exported on the current condition."
+#~ msgstr "注文データは現在の条件でエクスポートされます。"
+
+#~ msgid "Export &raquo;"
+#~ msgstr "エクスポート &raquo;"
+
+#~ msgid "Atobarai Export &raquo;"
+#~ msgstr "後払いエクスポート &raquo;"
+
+#~ msgid "Point ID"
+#~ msgstr "ポイントID"
+
+#~ msgid "<strong>ERROR</strong>: Failed to delete the point."
+#~ msgstr "<strong>エラー</strong>: ポイントの削除に失敗しました。"
+
+#~ msgid "Author ID"
+#~ msgstr "登録者ID"
+
+#~ msgid "Product Images"
+#~ msgstr "商品画像"
+
+#~ msgid "JAN/EAN"
+#~ msgstr "JAN/EAN"
+
+#~ msgid "PC Summary"
+#~ msgstr "PC概略"
+
+#~ msgid "PC Explanation"
+#~ msgstr "PC説明"
+
+#~ msgid "Mobile Summary"
+#~ msgstr "携帯概略"
+
+#~ msgid "Mobile Explanation"
+#~ msgstr "携帯説明"
+
+#~ msgid "Mail Description"
+#~ msgstr "メール記載事項"
+
+#~ msgid "Stock"
+#~ msgstr "在庫数"
+
+#~ msgid "Stock Check"
+#~ msgstr "在庫チェック"
+
+#~ msgid "Max Sale"
+#~ msgstr "最大販売数（一回あたり）"
+
+#~ msgid "Product Size"
+#~ msgstr "商品サイズ"
+
+#~ msgid "Including Postage"
+#~ msgstr "送料込みにする"
+
+#~ msgid "Product Shipping"
+#~ msgstr "指定配送方法"
+
+#~ msgid "Point Rate"
+#~ msgstr "商品ポイント付与率"
+
+#~ msgid "Product Free Total Quantity"
+#~ msgstr "自由項目総数"
+
+#~ msgid "Product Return"
+#~ msgstr "返品"
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid "Product XML"
+#~ msgstr "商品XML"
+
+#~ msgid "Download File Name"
+#~ msgstr "ダウンロードファイル名"
+
+#~ msgid "Member Limitation"
+#~ msgstr "会員限定"
+
+#~ msgid "Sale Status"
+#~ msgstr "販売状況"
+
+#~ msgid "Product Display"
+#~ msgstr "商品表示"
+
+#~ msgid "<strong>ERROR</strong>: Please select at least a category."
+#~ msgstr ""
+#~ "<strong>エラー</strong>: 少なくとも一つはカテゴリーを選択してください。"
+
+#~ msgid ""
+#~ "<strong>ERROR</strong>: There is the same Product Code. Please input the "
+#~ "other Product Code."
+#~ msgstr ""
+#~ "<strong>エラー</strong>: すでに同名の商品コードがあります。別の商品コード"
+#~ "を入力してください。"
+
+#~ msgid "<strong>ERROR</strong>: Please input the Product Code."
+#~ msgstr "<strong>エラー</strong>: 商品コードを入力してください。"
+
+#~ msgid "<strong>ERROR</strong>: Please input the Product Name."
+#~ msgstr "<strong>エラー</strong>: 商品名を入力してください。"
+
+#~ msgid "<strong>ERROR</strong>: Please input the Product Price."
+#~ msgstr "<strong>エラー</strong>: 商品価格を入力してください。"
+
+#~ msgid "<strong>ERROR</strong>: Use only alphanumerics in the Product Code."
+#~ msgstr "<strong>エラー</strong>: 商品コードは半角英数字しか使用できません。"
+
+#~ msgid ""
+#~ "<strong>ERROR</strong>: Maximum number of letters in the Product Name is "
+#~ "100."
+#~ msgstr "<strong>エラー</strong>: 商品名の最大文字数は100文字です。"
+
+#~ msgid "<strong>ERROR</strong>: Use only numerics in the Product Price."
+#~ msgstr "<strong>エラー</strong>: 商品価格は半角数字しか使用できません。"
+
+#~ msgid "<strong>ERROR</strong>: Use only numerics in the Product Stock."
+#~ msgstr "<strong>エラー</strong>: 在庫数は半角数字しか使用できません。"
+
+#~ msgid "<strong>ERROR</strong>: Use only numerics in the Product Point."
+#~ msgstr "<strong>エラー</strong>: 商品ポイントは半角数字しか使用できません。"
+
+#~ msgid "<strong>ERROR</strong>: Use only numerics in the Product Point Rate."
+#~ msgstr ""
+#~ "<strong>エラー</strong>: 商品ポイント付与率は半角数字しか使用できません。"
+
+#~ msgid "<strong>ERROR</strong>: Use only numerics in the Affiliate Point."
+#~ msgstr ""
+#~ "<strong>エラー</strong>: アフィリエイトポイントは半角数字しか使用できませ"
+#~ "ん。"
+
+#~ msgid "<strong>ERROR</strong>: Please input %s."
+#~ msgstr "<strong>エラー</strong>: %sを入力してください。"
+
+#~ msgid "<strong>ERROR</strong>: Use only numerics in %s."
+#~ msgstr "<strong>エラー</strong>: %sは半角数字しか使用できません。"
+
+#~ msgid "<strong>ERROR</strong>: Use only alphabets in %s."
+#~ msgstr "<strong>エラー</strong>: %sは半角英字しか使用できません。"
+
+#~ msgid "<strong>ERROR</strong>: Use only alphanumerics in %s."
+#~ msgstr "<strong>エラー</strong>: %sは半角英数字しか使用できません。"
+
+#~ msgid "<strong>ERROR</strong>: Use only half-width letters in %s."
+#~ msgstr "<strong>エラー</strong>: %sは半角文字しか使用できません。"
+
+#~ msgid "<strong>ERROR</strong>: Minimum number of letters in %1$s is %2$s."
+#~ msgstr "<strong>エラー</strong>: %1$sの最大文字数は%2$s文字です。"
+
+#~ msgid "<strong>ERROR</strong>: Maximum number of letters in %1$s is %2$s."
+#~ msgstr "<strong>エラー</strong>: %1$sの最大文字数は%2$s文字です。"
+
+#~ msgid "<strong>ERROR</strong>: Failed to delete the product."
+#~ msgstr "<strong>エラー</strong>: 商品の削除に失敗しました。"
+
+#~ msgid "<strong>ERROR</strong>: Failed to change the status of products."
+#~ msgstr "<strong>エラー</strong>: 商品の状況の変更に失敗しました。"
+
+#~ msgid ""
+#~ "<strong>ERROR</strong>: You do not have a privilege to edit this product."
+#~ msgstr "<strong>エラー</strong>: 商品の編集する権限がありません。"
+
+#~ msgid "The uploaded file could not be moved to %s."
+#~ msgstr "アップロードしたファイルは、%s に移動できませんでした。"
+
+#~ msgid "Basic Mode"
+#~ msgstr "ベーシックモード"
+
+#~ msgid "Advanced Mode"
+#~ msgstr "アドバンストモード"
+
+#~ msgid "Add New Product"
+#~ msgstr "新規商品登録"
+
+#~ msgid "You can choose multiple items with Ctrl key."
+#~ msgstr "Ctrlキーを押しながらクリックすると複数のカテゴリーを選択できます。"
+
+#~ msgid "Add an Image"
+#~ msgstr "画像を追加"
+
+#~ msgid "Open the image uploader."
+#~ msgstr "画像アップローダを開く"
+
+#~ msgid "* Please use the alphanumeric characters as the product code."
+#~ msgstr "※ 商品コードには英数字を使用してください。"
+
+#~ msgid "Product Tax Ecluded Price"
+#~ msgstr "商品価格（税抜）"
+
+#~ msgid "Product Catalogue Price"
+#~ msgstr "定価"
+
+#~ msgid "Product PC Explanation"
+#~ msgstr "PC説明"
+
+#~ msgid "Product Mobile Explanation"
+#~ msgstr "携帯説明"
+
+#~ msgid "Product Mail Description"
+#~ msgstr "メール記載事項"
+
+#~ msgid "Product PHP Code after the last status is set"
+#~ msgstr "最終処理ステータスがセットされた際のPHPコード"
+
+#~ msgid "Product Tags"
+#~ msgstr "商品タグ"
+
+#~ msgid "Product Stock"
+#~ msgstr "在庫数"
+
+#~ msgid "Product Stock Check"
+#~ msgstr "在庫チェック"
+
+#~ msgid "Check the product stock"
+#~ msgstr "在庫数をチェックする"
+
+#~ msgid "Product Max Sale"
+#~ msgstr "最大販売数（一回あたり）"
+
+#~ msgid "Please select."
+#~ msgstr "選択してください"
+
+#~ msgid "Product Including Postage"
+#~ msgstr "送料込み"
+
+#~ msgid "Not include postage"
+#~ msgstr "送料込みにしない"
+
+#~ msgid "Include postage only for this item"
+#~ msgstr "この商品のみ送料込みにする"
+
+#~ msgid "Include postage for all items"
+#~ msgstr "他の商品も送料込みにする"
+
+#~ msgid "Product Point"
+#~ msgstr "商品ポイント"
+
+#~ msgid "Product Point Rate"
+#~ msgstr "商品ポイント付与率"
+
+#~ msgid "* Product Point will be given priority over Product Point Rate."
+#~ msgstr "※ 商品ポイントは商品ポイント付与率よりも優先されます。"
+
+#~ msgid "Product Free %d"
+#~ msgstr "自由項目 %d"
+
+#~ msgid "Type"
+#~ msgstr "タイプ"
+
+#~ msgid "Item Title"
+#~ msgstr "項目タイトル"
+
+#~ msgid "Let users input quantity of product free sections."
+#~ msgstr "自由項目に対して個数入力をさせる。"
+
+#~ msgid "Make it the required field."
+#~ msgstr "必須項目にする"
+
+#~ msgid "Item Value"
+#~ msgstr "項目値"
+
+#~ msgid "After Order Value"
+#~ msgstr "注文後の値"
+
+#~ msgid "Stock Value"
+#~ msgstr "在庫値"
+
+#~ msgid "e.g."
+#~ msgstr "（例）"
+
+#~ msgid "Changing Price"
+#~ msgstr "変動価格"
+
+#~ msgid "Replace the product price with the changing price."
+#~ msgstr "商品価格を変動価格で置き換える。"
+
+#~ msgid "CSS Class"
+#~ msgstr "CSS Class"
+
+#~ msgid "New"
+#~ msgstr "新品"
+
+#~ msgid "Used"
+#~ msgstr "中古品"
+
+#~ msgid "Refurbished"
+#~ msgstr "再生品"
+
+#~ msgid "Product URL"
+#~ msgstr "商品URL"
+
+#~ msgid "Include in the product xml"
+#~ msgstr "商品XMLに含める"
+
+#~ msgid "Apply Affiliate"
+#~ msgstr "アフィリエイトを適用する"
+
+#~ msgid "Output only for login users"
+#~ msgstr "ログイン中のユーザーのみに出力"
+
+#~ msgid "Product Start Date"
+#~ msgstr "販売開始日時"
+
+#~ msgid "Product End Date"
+#~ msgstr "販売終了日時"
+
+#~ msgid "Product Status"
+#~ msgstr "販売状況"
+
+#~ msgid "For Sale"
+#~ msgstr "販売中にする"
+
+#~ msgid "Display"
+#~ msgstr "表示する"
+
+#~ msgid "Product registration point you have"
+#~ msgstr "保有商品登録ポイント"
+
+#~ msgid "Please input the product price."
+#~ msgstr "商品価格を入力してください。"
+
+#~ msgid "Register the new product &raquo;"
+#~ msgstr "新しい商品を登録する &raquo;"
+
+#~ msgid "Edit Product"
+#~ msgstr "商品変更"
+
+#~ msgid "Product Tax Excluded Price"
+#~ msgstr "商品価格（税抜）"
+
+#~ msgid "File name:"
+#~ msgstr "ファイル名："
+
+#~ msgid ""
+#~ "Please paste the following link into the Product Mail Description if you "
+#~ "use the download by use of E-mail. Depending on the PHP Code, pick a link "
+#~ "to use."
+#~ msgstr ""
+#~ "メールからダウンロードする場合はメール記載事項に以下のリンクを貼り付けてく"
+#~ "ださい。PHPコードに応じて使用するリンクを選択してください。"
+
+#~ msgid "Download Times:"
+#~ msgstr "ダウンロード回数："
+
+#~ msgid "times"
+#~ msgstr "回"
+
+#~ msgid "Download Expiration:"
+#~ msgstr "ダウンロード有効期間："
+
+#~ msgid "days"
+#~ msgstr "日"
+
+#~ msgid "User Attribute Name:"
+#~ msgstr "ユーザー属性名："
+
+#~ msgid ""
+#~ "You can use alphabets, numeric, and _ as the product code. You can only "
+#~ "use alphabets as the initial letter."
+#~ msgstr ""
+#~ "商品コードには英数字または_（アンダースコア）のみ使用できます。頭文字には"
+#~ "英字のみ使用できます。"
+
+#~ msgid "Do not forget to set PHP Code if you set the download file."
+#~ msgstr ""
+#~ "ダウンロードファイルをセットしたら忘れずにPHPコードをセットしてください。"
+
+#~ msgid "Insert the download php code &raquo;"
+#~ msgstr "ダウンロードPHPコードを挿入する &raquo;"
+
+#~ msgid "Update the product &raquo;"
+#~ msgstr "商品を更新する &raquo;"
+
+#~ msgid "Delete Product"
+#~ msgstr "商品削除"
+
+#~ msgid "Delete Product &raquo;"
+#~ msgstr "商品を削除する &raquo;"
+
+#~ msgid "Product Import"
+#~ msgstr "商品インポート"
+
+#~ msgid "%d products were registered."
+#~ msgstr "%d件の商品が登録されました。"
+
+#~ msgid ""
+#~ "You need to specify the category id, product code, product name, and "
+#~ "product price definitely."
+#~ msgstr ""
+#~ "カテゴリーID、商品コード、商品名、商品価格は必ず指定する必要があります。"
+
+#~ msgid "%d products will be imported."
+#~ msgstr "%d件の商品がインポートされます。"
+
+#~ msgid "Import &raquo;"
+#~ msgstr "インポート &raquo;"
+
+#~ msgid "There is no product to import."
+#~ msgstr "インポート可能な商品はありません。"
+
+#~ msgid "Please upload the csv file of product data."
+#~ msgstr "商品データのcsvファイルをアップロードしてください。"
+
+#~ msgid ""
+#~ "Please specify the product items of columns. You need to specify the "
+#~ "category id, product code, product name, and product price."
+#~ msgstr ""
+#~ "列ごとの商品項目を指定してください。カテゴリーID、商品コード、商品名、商品"
+#~ "価格は指定する必要があります。"
+
+#~ msgid "Omit the first line."
+#~ msgstr "最初の行を省略する"
+
+#~ msgid "Upload &raquo;"
+#~ msgstr "アップロード &raquo;"
+
+#~ msgid "Add New Porduct"
+#~ msgstr "新規商品登録"
+
+#~ msgid "Product registration point you have is lack."
+#~ msgstr "保有商品登録ポイントが不足しています。"
+
+#~ msgid "Product updated."
+#~ msgstr "商品は更新されました。"
+
+#~ msgid "Product Registered."
+#~ msgstr "商品が登録されました。"
+
+#~ msgid "Product Deleted."
+#~ msgstr "商品が削除されました。"
+
+#~ msgid "Product Status Changed."
+#~ msgstr "商品ステータスが変更されました。"
+
+#~ msgid "Change menu orders"
+#~ msgstr "順序変更"
+
+#~ msgid "Change stocks"
+#~ msgstr "在庫変更"
+
+#~ msgid "Status - On"
+#~ msgstr "販売中"
+
+#~ msgid "Status - Off"
+#~ msgstr "販売停止"
+
+#~ msgid "Display - On"
+#~ msgstr "表示する"
+
+#~ msgid "Display - Off"
+#~ msgstr "表示しない"
+
+#~ msgid "Order"
+#~ msgstr "注文"
+
+#~ msgid "Export Product Data"
+#~ msgstr "商品データエクスポート"
+
+#~ msgid "The product data will be exported on the current condition."
+#~ msgstr "商品データは現在の条件でエクスポートされます。"
+
+#~ msgid "Please specify the product of columns you would like to output."
+#~ msgstr "出力する商品項目を指定してください。"
+
+#~ msgid "Include the item name"
+#~ msgstr "項目名を含める"
+
+#~ msgid "New Order"
+#~ msgstr "新着順"
+
+#~ msgid "Updated Order"
+#~ msgstr "更新順"
+
+#~ msgid "Recommended"
+#~ msgstr "おすすめ順"
+
+#~ msgid "Price: Low to High"
+#~ msgstr "価格の安い順"
+
+#~ msgid "Price: High to Low"
+#~ msgstr "価格の高い順"
+
+#~ msgid "Name: ascending order"
+#~ msgstr "商品名昇順"
+
+#~ msgid "Name: descending order"
+#~ msgstr "商品名降順"
+
+#~ msgid "Display:"
+#~ msgstr "表示："
+
+#~ msgid "All Products"
+#~ msgstr "全商品"
+
+#~ msgid "In Stock"
+#~ msgstr "在庫あり"
+
+#~ msgid "Add to Wish List &raquo;"
+#~ msgstr "ウィッシュリストに追加する &raquo;"
+
+#~ msgid "Remove from Wish List"
+#~ msgstr "ウィッシュリストから削除する"
+
+#~ msgid "out of stock"
+#~ msgstr "在庫切れ"
+
+#~ msgid "limited availability"
+#~ msgstr "在庫僅少"
+
+#~ msgid "in stock"
+#~ msgstr "在庫あり"
+
+#~ msgid "Sell Start:"
+#~ msgstr "販売開始："
+
+#~ msgid "F j, Y H:i"
+#~ msgstr "Y年Fj日 H時i分"
+
+#~ msgid "Sell End:"
+#~ msgstr "販売終了："
+
+#~ msgid "ADD TO CART &raquo;"
+#~ msgstr "ショッピングカートに入れる &raquo;"
+
+#~ msgid "Recommend ID"
+#~ msgstr "レコメンドID"
+
+#~ msgid "Source ID"
+#~ msgstr "元ID"
+
+#~ msgid "Relative ID"
+#~ msgstr "関連ID"
+
+#~ msgid "Recommend Point"
+#~ msgstr "レコメンドポイント"
+
+#~ msgid "Recommend Type"
+#~ msgstr "レコメンドタイプ"
+
+#~ msgid "Recommend Enforcement"
+#~ msgstr "レコメンド強制"
+
+#~ msgid "<strong>ERROR</strong>: Please input the Source ID."
+#~ msgstr "<strong>エラー</strong>: 元IDを入力してください。"
+
+#~ msgid "<strong>ERROR</strong>: Please input the Relative ID."
+#~ msgstr "<strong>エラー</strong>: 関連IDを入力してください。"
+
+#~ msgid "<strong>ERROR</strong>: Please input the Recommend Point."
+#~ msgstr "<strong>エラー</strong>: レコメンドポイントを入力してください。"
+
+#~ msgid "<strong>ERROR</strong>: Failed to delete the Recommend."
+#~ msgstr "<strong>エラー</strong>: レコメンドの削除に失敗しました。"
+
+#~ msgid "<strong>ERROR</strong>: Failed to change the status of Recommend."
+#~ msgstr "<strong>エラー</strong>: レコメンド状況の変更に失敗しました。"
+
+#~ msgid "Enforce the Recommend"
+#~ msgstr "レコメンドを強制する"
+
+#~ msgid "Edit Recommend"
+#~ msgstr "レコメンドを変更する"
+
+#~ msgid "Update the Recommend &raquo;"
+#~ msgstr "レコメンドを更新する &raquo;"
+
+#~ msgid "Delete Recommend"
+#~ msgstr "レコメンドを削除する"
+
+#~ msgid "Recommend updated."
+#~ msgstr "レコメンドを更新しました。"
+
+#~ msgid "Recommend Registered."
+#~ msgstr "レコメンドを登録しました。"
+
+#~ msgid "Recommend Deleted."
+#~ msgstr "レコメンドを削除しました。"
+
+#~ msgid "Recommend Status Changed."
+#~ msgstr "レコメンドステータスが変更されました。"
+
+#~ msgid "Change point"
+#~ msgstr "ポイント変更"
+
+#~ msgid "Search for products"
+#~ msgstr "商品検索"
+
+#~ msgid "NSA Search"
+#~ msgstr "ネットショップ管理 検索"
+
+#~ msgid "Product Search"
+#~ msgstr "商品検索"
+
+#~ msgid "All Categories"
+#~ msgstr "全てのカテゴリー"
+
+#~ msgid " - "
+#~ msgstr " ～ "
+
+#~ msgid "Search &raquo;"
+#~ msgstr "検索する &raquo;"
+
+#~ msgid "Include product meta values into the free search"
+#~ msgstr "商品追加項目を自由検索対象に含める"
+
+#~ msgid "Include the terms into the free search"
+#~ msgstr "タグを自由検索対象に含める"
+
+#~ msgid "Show categories"
+#~ msgstr "カテゴリーを表示する"
+
+#~ msgid "Show price"
+#~ msgstr "価格を表示する"
+
+#~ msgid "Post-text"
+#~ msgstr "後テキスト"
+
+#~ msgid "Shopping cart for widgets"
+#~ msgstr "ウィジェット用ショッピングカート"
+
+#~ msgid "NSA Shopping Cart"
+#~ msgstr "ネットショップ管理 ショッピングカート"
+
+#~ msgid "Price:"
+#~ msgstr "価格："
+
+#~ msgid "Quantity:"
+#~ msgstr "数量："
+
+#~ msgid "Go to Shopping Cart &raquo;"
+#~ msgstr "ショッピングカートを見る &raquo;"
+
+#~ msgid "Your Shopping Cart is empty."
+#~ msgstr "ショッピングカートは空です。"
+
+#~ msgid "Product lists users checked recently"
+#~ msgstr "最近チェックした商品リスト"
+
+#~ msgid "NSA Recently Checked Products"
+#~ msgstr "ネットショップ管理 最近チェックした商品"
+
+#~ msgid "Recently Checked Products"
+#~ msgstr "最近チェックした商品"
+
+#~ msgid "Clear the recently checked products &raquo;"
+#~ msgstr "最近チェックした商品のクリア &raquo;"
+
+#~ msgid "No recently checked products."
+#~ msgstr "最近チェックした商品はありません。"
+
+#~ msgid "Show the list of top sales"
+#~ msgstr "売上ランキングのリストを表示する"
+
+#~ msgid "NSA Top Sales"
+#~ msgstr "ネットショップ管理 売上ランキング"
+
+#~ msgid "Top Sales"
+#~ msgstr "売上ランキング"
+
+#~ msgid "No top sales data."
+#~ msgstr "売上ランキングのデータがありません。"
+
+#~ msgid "Past Hour"
+#~ msgstr "過去何時間"
+
+#~ msgid "From datetime"
+#~ msgstr "開始日時"
+
+#~ msgid "To datetime"
+#~ msgstr "終了日時"
+
+#~ msgid "Wish List ID"
+#~ msgstr "ウィッシュリストID"
+
+#~ msgid "<strong>ERROR</strong>: Failed to delete the Wish List."
+#~ msgstr "<strong>エラー</strong>: ウィッシュリストの削除に失敗しました。"
+
+#~ msgid "Wish List Deleted."
+#~ msgstr "ウィッシュリストが削除されました。"
+
+#~ msgid "Contract Code"
+#~ msgstr "契約コード"
+
+#~ msgid "Password"
+#~ msgstr "パスワード"
+
+#~ msgid "Epsilon URL"
+#~ msgstr "イプシロンURL"
+
+#~ msgid "For Live"
+#~ msgstr "本番用"
+
+#~ msgid "For Test"
+#~ msgstr "試験用"
+
+#~ msgid "Order Status after deposit"
+#~ msgstr "入金後の処理状況"
+
+#~ msgid "Mission Code"
+#~ msgstr "課金区分"
+
+#~ msgid "Process Code"
+#~ msgstr "処理区分"
+
+#~ msgid "Settlement Service"
+#~ msgstr "決済サービス"
+
+#~ msgid "Convenience Store"
+#~ msgstr "コンビニ決済"
+
+#~ msgid "Japan Net Bank"
+#~ msgstr "ジャパンネット銀行"
+
+#~ msgid "eBank"
+#~ msgstr "イーバンク銀行"
+
+#~ msgid "Pay Easy"
+#~ msgstr "ペイジー"
+
+#~ msgid "WebMoney"
+#~ msgstr "WebMoney"
+
+#~ msgid "PayPal"
+#~ msgstr "ペイパル"
+
+#~ msgid "BitCash"
+#~ msgstr "BitCash"
+
+#~ msgid "Chocom"
+#~ msgstr "電子マネーちょコム"
+
+#~ msgid "XML Parser Error"
+#~ msgstr "XMLパーサーエラー"
+
+#~ msgid "Failed to send data."
+#~ msgstr "データの送信に失敗しました。"
+
+#~ msgid "Failed to process."
+#~ msgstr "処理が失敗しました。"
+
+#~ msgid "Store ID"
+#~ msgstr "店舗ID"
+
+#~ msgid "J-PAYMENT Product Code"
+#~ msgstr "J-PAYMENT 商品コード"
+
+#~ msgid "Duration Type"
+#~ msgstr "課金周期"
+
+#~ msgid "Every week billing"
+#~ msgstr "毎週課金"
+
+#~ msgid "Every two weeks billing"
+#~ msgstr "隔週課金"
+
+#~ msgid "Every month billing"
+#~ msgstr "毎月課金"
+
+#~ msgid "Every two months billing"
+#~ msgstr "隔月課金"
+
+#~ msgid "Every six months billing"
+#~ msgstr "６ヶ月課金"
+
+#~ msgid "Every year billing"
+#~ msgstr "1年課金"
+
+#~ msgid "Billing Day"
+#~ msgstr "課金日"
+
+#~ msgid "Last day"
+#~ msgstr "末日"
+
+#~ msgid "Test Price"
+#~ msgstr "お試し価格"
+
+#~ msgid "Test Days"
+#~ msgstr "お試し日数"
+
+#~ msgid "Test Months"
+#~ msgstr "お試し月数"
+
+#~ msgid "Payment PHP Code"
+#~ msgstr "支払いPHPコード"
+
+#~ msgid "Failed PHP Code"
+#~ msgstr "失敗PHPコード"
+
+#~ msgid "Cancel PHP Code"
+#~ msgstr "キャンセルPHPコード"
+
+#~ msgid "Suica"
+#~ msgstr "Suica"
+
+#~ msgid "Bank Check"
+#~ msgstr "バンクチェック"
+
+#~ msgid "Authorization"
+#~ msgstr "与信"
+
+#~ msgid "Capture"
+#~ msgstr "与信売上"
+
+#~ msgid "Place Order &raquo;"
+#~ msgstr "注文を確定する &raquo;"
+
+#~ msgid "Automatic Pricing Number: "
+#~ msgstr "自動課金番号： "
+
+#~ msgid "Email address on your PayPal account"
+#~ msgstr "PayPal アカウントのメールアドレス"
+
+#~ msgid "Paypal URL"
+#~ msgstr "ペイパルURL"
+
+#~ msgid "Identity Token"
+#~ msgstr "ID トークン"
+
+#~ msgid "US Dollar"
+#~ msgstr "USドル"
+
+#~ msgid "Language"
+#~ msgstr "言語"
+
+#~ msgid "Japanese"
+#~ msgstr "日本語"
+
+#~ msgid "English"
+#~ msgstr "英語"
+
+#~ msgid "Actual duration unit"
+#~ msgstr "定期払単位"
+
+#~ msgid "Day"
+#~ msgstr "日"
+
+#~ msgid "Week"
+#~ msgstr "週"
+
+#~ msgid "Month"
+#~ msgstr "月"
+
+#~ msgid "Year"
+#~ msgstr "年"
+
+#~ msgid "Actual duration"
+#~ msgstr "定期払期間"
+
+#~ msgid "Test duration unit"
+#~ msgstr "お試し定期払単位"
+
+#~ msgid "Test duration"
+#~ msgstr "お試し定期払期間"
+
+#~ msgid "Buy Now button"
+#~ msgstr "購入"
+
+#~ msgid "SMBC URL"
+#~ msgstr "SMBC URL"
+
+#~ msgid "Shop Code"
+#~ msgstr "契約コード"
+
+#~ msgid "Syuno Company Code"
+#~ msgstr "収納企業コード"
+
+#~ msgid "Kyoten Code"
+#~ msgstr "拠点コード"
+
+#~ msgid "Shop Password"
+#~ msgstr "ショップパスワード"
+
+#~ msgid "Demand Name"
+#~ msgstr "請求内容（漢字）"
+
+#~ msgid "Demand Kana"
+#~ msgstr "請求内容（カナ）"
+
+#~ msgid "Convenience Store (Payment Coupon)"
+#~ msgstr "コンビニエンスストア（払込票）"
+
+#~ msgid "Convenience Store (Number)"
+#~ msgstr "コンビニエンスストア（受付番号）"
+
+#~ msgid "Postal Remittance"
+#~ msgstr "ゆうちょ振替"
+
+#~ msgid "Bank Remittance"
+#~ msgstr "銀行振込"
+
+#~ msgid "Pay-easy"
+#~ msgstr "ペイジー"
+
+#~ msgid "Cyber Edy"
+#~ msgstr "Cyber Edu"
+
+#~ msgid "Mobile Edy"
+#~ msgstr "Mobile Edy"
+
+#~ msgid "Mobile Suica"
+#~ msgstr "モバイルSuica"
+
+#~ msgid "Net Bank"
+#~ msgstr "ネットバンク"
+
+#~ msgid "Payment Coupon"
+#~ msgstr "払込票"
+
+#~ msgid "Issue Division"
+#~ msgstr "発行区分"
+
+#~ msgid "Self Issue"
+#~ msgstr "自社発行"
+
+#~ msgid "Alternative Issue"
+#~ msgstr "代行発行"
+
+#~ msgid "Mailing Division"
+#~ msgstr "郵送先区分"
+
+#~ msgid "Shop"
+#~ msgstr "店"
+
+#~ msgid "Customer"
+#~ msgstr "顧客"
+
+#~ msgid "Auth Only"
+#~ msgstr "与信"
+
+#~ msgid "Auth Capture"
+#~ msgstr "与信売上"
+
+#~ msgid "Do not use"
+#~ msgstr "使用しない"
+
+#~ msgid "Electronic signature error happened."
+#~ msgstr "電子署名エラーが発生しました。"
+
+#~ msgid "TEL: "
+#~ msgstr "電話番号： "
+
+#~ msgid "Delivery Name: "
+#~ msgstr "配送方法： "
+
+#~ msgid "Delivery Date: "
+#~ msgstr "配達希望日： "
+
+#~ msgid "Delivery Time: "
+#~ msgstr "配達時間帯： "
+
+#~ msgid "Gift: "
+#~ msgstr "ギフト： "
+
+#~ msgid "Noshi: "
+#~ msgstr "のし： "
+
+#~ msgid "Shipping Number: "
+#~ msgstr "配送伝票番号："
+
+#~ msgid "[Products]"
+#~ msgstr "[商品]"
+
+#~ msgid "Unprocessed Affiliates"
+#~ msgstr "未処理アフィリエイト"
+
+#~ msgid "Affiliate Point Total"
+#~ msgstr "アフィリエイトポイント合計"
+
+#~ msgid "Name"
+#~ msgstr "お名前"
+
+#~ msgid "Address"
+#~ msgstr "ご住所"
+
+#~ msgid "&laquo; Modify"
+#~ msgstr "&laquo; 修正する"
+
+#~ msgid "Ship to this address"
+#~ msgstr "この住所に送る"
+
+#~ msgid "Ship to different address"
+#~ msgstr "別の住所に送る"
+
+#~ msgid "(Available to use multiple addresses and the address list.)"
+#~ msgstr "（複数送付先対応、送付先リスト利用可）"
+
+#~ msgid "(Available to use the address list.)"
+#~ msgstr "（送付先リスト利用可）"
+
+#~ msgid "Continue &raquo;"
+#~ msgstr "次へ &raquo;"
+
+#~ msgid "Furigana"
+#~ msgstr "フリガナ"
+
+#~ msgid "Address will be inserted automatically after the input of zipcode."
+#~ msgstr "※ 郵便番号を入力すると自動的に住所が挿入されます。"
+
+#~ msgid "Display Term:"
+#~ msgstr "表示期間："
+
+#~ msgid "Last 1 month"
+#~ msgstr "最近1か月"
+
+#~ msgid "Past 3 months"
+#~ msgstr "過去3か月"
+
+#~ msgid "Past 1 year"
+#~ msgstr "過去1年間"
+
+#~ msgid "No Buying History"
+#~ msgstr "ご購入履歴はありません"
+
+#~ msgid "Proceed to checkout according to the following methods."
+#~ msgstr ""
+#~ "以下よりご購入手段を選択してください。会員登録がお済みの方はログインしてく"
+#~ "ださい。"
+
+#~ msgid "If you are a new customer, you need to register before ordering."
+#~ msgstr ""
+#~ "初めての方は、会員登録が必要です。以下のボタンより登録フォームへお進みくだ"
+#~ "さい。"
+
+#~ msgid "Checkout as a Guest"
+#~ msgstr "ゲストとして購入する"
+
+#~ msgid "You can only checkout as a Guest if you do not have an account."
+#~ msgstr "アカウントをお持ちでない場合はゲストとしてのみご購入いただけます。"
+
+#~ msgid "Checkout as Guest"
+#~ msgstr "ゲストとして購入する"
+
+#~ msgid "Checkout as a Guest or Register"
+#~ msgstr "ゲストで、または会員登録して購入する"
+
+#~ msgid ""
+#~ "If you are a new customer, please select which you would like to checkout "
+#~ "as a Guest or Register."
+#~ msgstr ""
+#~ "初めての方は、ゲストとして購入するか、会員登録して購入するかを選択してくだ"
+#~ "さい。"
+
+#~ msgid "Login and Checkout"
+#~ msgstr "ログインして購入する"
+
+#~ msgid "Username"
+#~ msgstr "ユーザー名"
+
+#~ msgid "Log In &raquo;"
+#~ msgstr "ログイン &raquo;"
+
+#~ msgid "Lost your password?"
+#~ msgstr "パスワードをお忘れですか？"
+
+#~ msgid "Coupon"
+#~ msgstr "クーポン"
+
+#~ msgid "Coupon applied"
+#~ msgstr "クーポン適用"
+
+#~ msgid "Subtotal: "
+#~ msgstr "現在のお買い上げ金額（小計）： "
+
+#~ msgid "Postage: "
+#~ msgstr "配送料： "
+
+#~ msgid "Commission: "
+#~ msgstr "手数料： "
+
+#~ msgid "Use Point: "
+#~ msgstr "使用ポイント： "
+
+#~ msgid "Zip code"
+#~ msgstr "〒"
+
+#~ msgid "%d Shipping Information"
+#~ msgstr "%d件目の送り先情報"
+
+#~ msgid "None specified."
+#~ msgstr "指定なし"
+
+#~ msgid "Gift Wrapping"
+#~ msgstr "ギフト包装"
+
+#~ msgid "(%s Point you have will be left.)"
+#~ msgstr "（残りは、%sポイントです）"
+
+#~ msgid "No comment"
+#~ msgstr "特になし"
+
+#~ msgid "Please choose the payment method from the following list"
+#~ msgstr "以下より支払方法を選択してください。"
+
+#~ msgid "%s's Point: "
+#~ msgstr "%sさんのご利用可能ポイント： "
+
+#~ msgid "You can use your point from %s point."
+#~ msgstr "ポイントは、%sポイントよりご利用いただけます。"
+
+#~ msgid "You do not have enough point to use."
+#~ msgstr "ご利用可能なポイントがございません。"
+
+#~ msgid "Point use"
+#~ msgstr "ポイント使用する"
+
+#~ msgid "Use all point you have."
+#~ msgstr "すべてのポイントを使用する"
+
+#~ msgid ""
+#~ "If you have anything to say about this order, please write down in the "
+#~ "following area."
+#~ msgstr ""
+#~ "ご注文に関して何か連絡事項がある場合は下記の入力欄をご利用ください。"
+
+#~ msgid "&laquo; Go back"
+#~ msgstr "&laquo; 戻る"
+
+#~ msgid ""
+#~ "Unknown troubles happened. Your order is not completed. Please contact "
+#~ "the administrator of this shop."
+#~ msgstr ""
+#~ "不具合が発生しました。ご注文はまだ完了しておりません。この店舗の管理者にご"
+#~ "連絡ください。"
+
+#~ msgid "Select"
+#~ msgstr "選択"
+
+#~ msgid "Edit"
+#~ msgstr "編集"
+
+#~ msgid "Add a new address &raquo;"
+#~ msgstr "新しい送り先を追加する &raquo;"
+
+#~ msgid ""
+#~ "Please select Noshi from the following list or input Noshi you want to "
+#~ "use."
+#~ msgstr ""
+#~ "以下のリストよりのしを選択するか、入力欄にご指定ののしをご入力ください。"
+
+#~ msgid "Please select Noshi from the following list."
+#~ msgstr "以下のリストよりのしを選択してください。"
+
+#~ msgid "OR"
+#~ msgstr "または"
+
+#~ msgid "If you change the quantity, click here: "
+#~ msgstr "数量を変更したら、ここをクリック： "
+
+#~ msgid "subtotal: "
+#~ msgstr "現在のお買い上げ金額（小計）： "
+
+#~ msgid "Point you can get: "
+#~ msgstr "獲得できるポイント： "
+
+#~ msgid "Under the Maintenace"
+#~ msgstr "誠に申し訳ございませんが、メンテナンス中です。"
+
+#~ msgid "Checkout &raquo;"
+#~ msgstr "注文画面へ進む &raquo;"
+
+#~ msgid "Your shopping cart is currently empty."
+#~ msgstr "ショッピングカートには現在何も入っていません。"
+
+#~ msgid "A confirmation email has been sent to your email address."
+#~ msgstr "ご注文確認メールをあなたのメールアドレスにお送りいたしました。"
+
+#~ msgid ""
+#~ "If the email is not coming in an hour, it may be sent to the wrong email "
+#~ "address."
+#~ msgstr ""
+#~ "確認メールが一時間経っても届かない場合は、メールアドレスが間違っている可能"
+#~ "性があります。"
+
+#~ msgid "Please contact the shop owner."
+#~ msgstr "ショップオーナーにお問い合わせください。"
+
+#~ msgid "No Wish List"
+#~ msgstr "ウィッシュリストがありません。"
+
+#~ msgid "Shipping Address"
+#~ msgstr "送り先"
+
+#~ msgid "Use Coupon"
+#~ msgstr "クーポンを使う"
+
+#~ msgid "All"
+#~ msgstr "全商品"
+
+#~ msgid "Quantity was arranged automatically."
+#~ msgstr "数量が自動的に変更されました。"
+
+#~ msgid "Add to Wish List"
+#~ msgstr "ウィッシュリストに追加する"
+
+#, fuzzy
+#~ msgid "Registered Time"
+#~ msgstr "登録日時"
+
+#, fuzzy
+#~ msgid "Wish List Registered."
+#~ msgstr "商品が登録されました。"
+
+#, fuzzy
+#~ msgid "Wish List Status Changed."
+#~ msgstr "商品ステータスが変更されました。"
+
+#, fuzzy
+#~ msgid "<strong>ERROR</strong>: Failed to change the status of Wish List."
+#~ msgstr "<strong>エラー</strong>: アフィリエイトの状況の変更に失敗しました。"
+
+#~ msgid "Buy - Check"
+#~ msgstr "購入 － 表示"
+
+#~ msgid "Check - Buy"
+#~ msgstr "表示 － 購入"
+
+#~ msgid "Japan"
+#~ msgstr "日本"
+
+#~ msgid "Order Confirmation for Mobile"
+#~ msgstr "ご注文確認（携帯）"
+
+#~ msgid "Shipping Mail for Mobile"
+#~ msgstr "発送メール（携帯）"
+
+#~ msgid "Every Day"
+#~ msgstr "毎日"
+
+#~ msgid "Every Week"
+#~ msgstr "毎週"
+
+#~ msgid "Every Month"
+#~ msgstr "毎月"
+
+#~ msgid "hour"
+#~ msgstr "時"
+
+#~ msgid "minute"
+#~ msgstr "分"
+
+#~ msgid "Consumption product registration point is lack."
+#~ msgstr "商品登録ポイントが不足しています。"
+
+#~ msgid "Registration Point"
+#~ msgstr "登録ポイント"
+
+#~ msgid "Registration Point Rate"
+#~ msgstr "登録ポイント率"
+
+#, fuzzy
+#~ msgid "Bitcash"
+#~ msgstr "BitCash"
+
+#~ msgid "Change user times"
+#~ msgstr "ユーザー回数の変更"
+
+#, fuzzy
+#~ msgid "Coupon applied."
+#~ msgstr "クーポンは更新されました。"
+
+#~ msgid "User Times"
+#~ msgstr "ユーザー回数"
+
+#~ msgid "<strong>ERROR</strong>: Use only numerics in the user times."
+#~ msgstr "<strong>エラー</strong>: ユーザー回数は半角数字しか使用できません。"
+
+#~ msgid "The coupon was appied."
+#~ msgstr "クーポンが適用されました。"
+
+#~ msgid "Discount: "
+#~ msgstr "割引： "
+
+#~ msgid "Discount Price: "
+#~ msgstr "割引額： "
+
+#~ msgid "Discount Price(%s): "
+#~ msgstr "割引額（%s）： "
+
+#~ msgid "One Product Only"
+#~ msgstr "１商品のみ"
+
+#~ msgid "Only apply to the one product."
+#~ msgstr "１つの商品にのみ適用する"
+
+#~ msgid "One product only"
+#~ msgstr "１商品のみ"
+
+#~ msgid ""
+#~ "If you have a coupon, please input the coupon code and click Apply button."
+#~ msgstr ""
+#~ "クーポンをお持ちの場合は、以下にクーポンコードを入力し適用を押してくださ"
+#~ "い。"
+
+#~ msgid "Coupoen Start Date"
+#~ msgstr "クーポン開始日時"
+
+#~ msgid "Bank Account"
+#~ msgstr "銀行口座"
+
+#~ msgid "Point Total"
+#~ msgstr "ポイント合計"
+
+#~ msgid "Processed Affiliates"
+#~ msgstr "処理済アフィリエイト"
+
+#~ msgid "Summary Tool"
+#~ msgstr "集計ツール"
+
+#~ msgid "point and above"
+#~ msgstr "ポイント以上"
+
+#~ msgid "point and below"
+#~ msgstr "ポイント未満"
+
+#~ msgid "<strong>ERROR</strong>: Please input the Product Tax Excluded Price."
+#~ msgstr "<strong>エラー</strong>: 商品価格（税抜）を入力してください。"
+
+#~ msgid "Product Management (View)"
+#~ msgstr "商品管理 （閲覧）"
+
+#~ msgid "Default value"
+#~ msgstr "初期値"
+
+#~ msgid "Text"
+#~ msgstr "テキスト"
+
+#~ msgid "Cumulative Sales"
+#~ msgstr "累計売上"
+
+#~ msgid "Delivery Datetime"
+#~ msgstr "配達希望日時"
+
+#~ msgid "Base:"
+#~ msgstr "基準："
+
+#~ msgid "Name Order"
+#~ msgstr "名前順"
+
+#~ msgid "New Products"
+#~ msgstr "新商品"
+
+#~ msgid "Updated Products"
+#~ msgstr "更新された商品"
+
+#, fuzzy
+#~ msgid "If you are a new customer, please select `checkout as a Guest`."
+#~ msgstr ""
+#~ "初めての方は、ゲストとして購入するか、会員登録して購入するかを選択してくだ"
+#~ "さい。"
+
+#, fuzzy
+#~ msgid "Please check if you do not let users register in the order steps."
+#~ msgstr "注文時にユーザー登録を強制するにはチェックしてください。"
+
+#~ msgid "No need"
+#~ msgstr "指定しない"
+
+#, fuzzy
+#~ msgid "User Point"
+#~ msgstr "使用ポイント"
+
+#~ msgid "Results %1$d - %2$d of %3$d"
+#~ msgstr "%1$d件 - %2$d件 （全%3$d件） "
+
+#~ msgid "Not ready for sale."
+#~ msgstr "販売準備中です。"
+
+#~ msgid "Product Number on the list"
+#~ msgstr "商品リストに表示する商品数"
+
+#~ msgid "Product List Columns"
+#~ msgstr "商品リスト列数"
+
+#~ msgid "Net Shop Admin Login Box"
+#~ msgstr "ネットショップ管理 ログインボックス"
+
+#~ msgid "Net Shop Admin Category List"
+#~ msgstr "ネットショップ管理 カテゴリーリスト"
+
+#~ msgid "Net Shop Admin Recently Checked"
+#~ msgstr "ネットショップ管理 最近チェックした商品一覧"
+
+#~ msgid "Howdy, %1$s!"
+#~ msgstr "こんにちは、%1$sさん"
+
+#~ msgid "Profile"
+#~ msgstr "アカウント設定"
+
+#~ msgid "Log Out"
+#~ msgstr "ログアウト"
+
+#~ msgid "Remember Me"
+#~ msgstr "ログイン情報を記憶"
+
+#~ msgid "Logged In"
+#~ msgstr "ログイン"
+
+#~ msgid "Log In"
+#~ msgstr "ログイン"
+
+#~ msgid "Show the product count"
+#~ msgstr "商品数を表示する"
+
+#~ msgid "Recently Checked Title"
+#~ msgstr "タイトル"
+
+#~ msgid "Recently Checked Count"
+#~ msgstr "商品数"
+
+#~ msgid ""
+#~ "In order to upgrade the Net Shop Admin plugin, you need to input <a href="
+#~ "\"%s\">Upgrade Code</a>."
+#~ msgstr ""
+#~ "ネットショップ管理プラグインをアップグレードするには、<a href=\"%s\">アッ"
+#~ "プグレードコード</a>を入力する必要があります。"
+
+#~ msgid "Upgrade Code"
+#~ msgstr "アップグレードコード"
+
+#~ msgid "Stock Display"
+#~ msgstr "在庫表示"
+
+#~ msgid "Product Free Item %d"
+#~ msgstr "自由項目 %d"
+
+#~ msgid "Switch Mode"
+#~ msgstr "モードスイッチ"
+
+#~ msgid "Product Stock Display"
+#~ msgstr "在庫表示"
+
+#~ msgid "Template Options"
+#~ msgstr "テンプレートオプション"
+
+#~ msgid "Cancel Order &raquo;"
+#~ msgstr "注文をキャンセルする &raquo;"
+
+#~ msgid "〒"
+#~ msgstr "〒"
+
+#, fuzzy
+#~ msgid "<strong>ERROR</strong>: Please enter the shipping name."
+#~ msgstr "<strong>エラー</strong>: お名前を入力してください。"
+
+#, fuzzy
+#~ msgid "<strong>ERROR</strong>: Please enter the shipping zipcode."
+#~ msgstr "<strong>エラー</strong>: 郵便番号を入力してください。"
+
+#, fuzzy
+#~ msgid "<strong>ERROR</strong>: Please enter the shipping prefecture."
+#~ msgstr "<strong>エラー</strong>: 都道府県を選択してください。"
+
+#, fuzzy
+#~ msgid "<strong>ERROR</strong>: Please enter the shipping address2."
+#~ msgstr "<strong>エラー</strong>: 番地以降の住所を入力してください。"
+
+#, fuzzy
+#~ msgid "<strong>ERROR</strong>: Please enter the shipping telephone."
+#~ msgstr "<strong>エラー</strong>: 電話番号を入力してください。"
+
+#~ msgid "address1"
+#~ msgstr "郡市区町村"
+
+#~ msgid "address2"
+#~ msgstr "番地以降の住所"
+
+#~ msgid "Shipping Method Message Top"
+#~ msgstr "配送方法選択メッセージ上部"
+
+#~ msgid "Shipping Method Message Middle"
+#~ msgstr "配送方法選択メッセージ中部"
+
+#~ msgid "Shipping Method Message Bottom"
+#~ msgstr "配送方法選択メッセージ下部"
+
+#~ msgid "Modify"
+#~ msgstr "修正"
+
+#~ msgid "Not load CSS"
+#~ msgstr "CSSを読み込まない"
+
+#~ msgid "Please check if you let users not load CSS."
+#~ msgstr "CSSを読み込ませない場合はチェックしてください。"
+
+#~ msgid "Condition 2"
+#~ msgstr "条件2"
+
+#~ msgid "Website"
+#~ msgstr "ウェブサイト"
+
+#~ msgid "Last name"
+#~ msgstr "性"
+
+#~ msgid "Nickname"
+#~ msgstr "ニックネーム"
+
+#~ msgid "AIM"
+#~ msgstr "AIM"
+
+#~ msgid "Yahoo IM"
+#~ msgstr "Yahoo IM"
+
+#~ msgid "Jabber / Google Talk"
+#~ msgstr "Jabber / Google Talk"
+
+#~ msgid "Display name publicly&nbsp;as"
+#~ msgstr "サイト上の表示名"
+
+#~ msgid "Biographical Info"
+#~ msgstr "自己紹介"
+
+#~ msgid "Half-width alphamerics"
+#~ msgstr "半角英数字"
+
+#~ msgid ""
+#~ "Share a little biographical information to fill out your profile. This "
+#~ "may be shown publicly."
+#~ msgstr ""
+#~ "プロフィールに添えるあなたのちょっとした自己紹介を書き入れてみましょう。こ"
+#~ "の情報はテンプレートタグを使用することによってブログに表示することができま"
+#~ "す。"
+
+#~ msgid "Type your new password again."
+#~ msgstr "もう一度新しいパスワードを入力してください。"
+
+#~ msgid "Password Strength:"
+#~ msgstr "パスワード強度:"
+
+#~ msgid "Too short"
+#~ msgstr "短すぎます"
+
+#~ msgid ""
+#~ "Hint: Use upper and lower case characters, numbers and symbols like !\"?$"
+#~ "%^&amp;( in your password."
+#~ msgstr ""
+#~ "ヒント: 大文字と小文字のアルファベット、数字や !\"?$%^&amp;( などの記号を"
+#~ "組み合わせたパスワードを使いましょう。"
+
+#~ msgid "Terms of use"
+#~ msgstr "利用規約"
+
+#~ msgid "I agree to the <a href=\"%s\">terms of use</a>."
+#~ msgstr "<a href=\"%s\">利用規約</a>に同意します。"
+
+#~ msgid "Confirm &raquo;"
+#~ msgstr "ご登録内容を確認する &raquo;"
+
+#~ msgid "Register &raquo;"
+#~ msgstr "登録 &raquo;"
+
+#~ msgid "Your username cannot be changed"
+#~ msgstr "ユーザー名は変更できません"
+
+#~ msgid "New Password:"
+#~ msgstr "新しいパスワード:"
+
+#~ msgid ""
+#~ "If you would like to change the password type a new one. Otherwise leave "
+#~ "this blank."
+#~ msgstr ""
+#~ "このユーザーのパスワードを変更する場合は新しいパスワードを入力してくださ"
+#~ "い。変更しない場合は空のままにしておいてください。"
+
+#~ msgid "Update Profile &raquo;"
+#~ msgstr "ユーザー情報を更新する &raquo;"
+
+#~ msgid ""
+#~ "The Frontend User Admin plugin is not installed. Please install the "
+#~ "plugin before starting this plugin."
+#~ msgstr ""
+#~ "フロントエンドユーザー管理プラグインがインストールされていません。このプラ"
+#~ "グインを使用する前にインストールしてください。"
+
+#~ msgid "Add User"
+#~ msgstr "新規ユーザー登録"
+
+#~ msgid "PC Description"
+#~ msgstr "PC概略"
+
+#, fuzzy
+#~ msgid "Mobile Description"
+#~ msgstr "メール記載事項"
+
+#, fuzzy
+#~ msgid "Product PC Description"
+#~ msgstr "メール記載事項"
+
+#, fuzzy
+#~ msgid "Product Mobile Description"
+#~ msgstr "メール記載事項"
+
+#~ msgid "Options unsetted."
+#~ msgstr "オプションはリセットされました。"
+
+#~ msgid "Edit Product Free Options"
+#~ msgstr "商品自由項目オプション編集"
+
+#~ msgid ""
+#~ "Please check if you let users use the shopping cart. If not, the "
+#~ "transition from the product page will be directly head for the order page."
+#~ msgstr ""
+#~ "ショッピングカートを使用する場合はチェックしてください。使用しない場合は商"
+#~ "品ページからの遷移が直接注文ページに向かいます。"
+
+#~ msgid "Use Order Page"
+#~ msgstr "注文ページを使用する"
+
+#~ msgid ""
+#~ "Please check if you let users use the order page. If not, the transition "
+#~ "from the shopping cart will be directly head for the payment page."
+#~ msgstr ""
+#~ "注文ページを使用する場合はチェックしてください。使用しない場合は注文ページ"
+#~ "からの遷移が直接支払いページに向かいます。"
+
+#~ msgid "Unset Options"
+#~ msgstr "オプションリセット"
+
+#~ msgid ""
+#~ "Are you sure to unset options? Options you set will be reset to the "
+#~ "default settings."
+#~ msgstr ""
+#~ "本当にオプションをリセットしてもよろしいですか？設定したオプションは初期化"
+#~ "されます。"
+
+#~ msgid "Unset Options &raquo;"
+#~ msgstr "オプションリセット &raquo;"
+
+#~ msgid "ADD TO CART"
+#~ msgstr "ショッピングカートに入れる"
+
+#~ msgid "Product Free Item 1"
+#~ msgstr "自由項目1"
+
+#~ msgid "Product Free Item 2"
+#~ msgstr "自由項目2"
+
+#~ msgid "Product Free Item 3"
+#~ msgstr "自由項目3"
+
+#~ msgid "Product Free Item 4"
+#~ msgstr "自由項目4"
+
+#~ msgid "Product Free Item 5"
+#~ msgstr "自由項目5"
+
+#~ msgid "Product Start Datetime"
+#~ msgstr "販売開始日時"
+
+#~ msgid "Product End Datetime"
+#~ msgstr "販売終了日時"
+
+#~ msgid "Product Update Datetime"
+#~ msgstr "更新日時"
+
+#~ msgid "<strong>ERROR</strong>: Please input the Product Catalogue Price."
+#~ msgstr "<strong>エラー</strong>: 商品定価を入力してください。"
+
+#~ msgid "Resend &raquo;"
+#~ msgstr "再送する &raquo;"
+
+#~ msgid "Order Address ID"
+#~ msgstr "配送先ID"
+
+#, fuzzy
+#~ msgid "Order Subtotal"
+#~ msgstr "小計"
+
+#~ msgid "Continue"
+#~ msgstr "次へ"
+
+#~ msgid "Show Count"
+#~ msgstr "商品数を表示する"
+
+#~ msgid "General Settings"
+#~ msgstr "一般設定"
+
+#~ msgid "Kukai Management"
+#~ msgstr "句会管理"
+
+#~ msgid "Tensaku Management"
+#~ msgstr "添削管理"
+
+#~ msgid "Mounted Image"
+#~ msgstr "台紙管理"
+
+#~ msgid "Literary Calendar"
+#~ msgstr "歳時記管理"
+
+#~ msgid "You can add modules in order to extend the administration."
+#~ msgstr "夏潮管理の機能を拡張するにはモジュールを追加してください。"
+
+#~ msgid "Recent Literary Calendar"
+#~ msgstr "最近の季語"
+
+#~ msgid "Recent Literary Calendar2"
+#~ msgstr "最近の季語2"
+
+#~ msgid "Recent Haiku"
+#~ msgstr "最近の俳句"
+
+#~ msgid "Recent Haiku2"
+#~ msgstr "最近の俳句2"
+
+#~ msgid "Haiku Recent Comments"
+#~ msgstr "俳句最近のコメント"
+
+#~ msgid "Haiku Recent Trackbacks"
+#~ msgstr "俳句最近のトラックバック"
+
+#~ msgid "Haiku Archives"
+#~ msgstr "俳句アーカイブ"
+
+#~ msgid "Archives"
+#~ msgstr "アーカイブ"
+
+#~ msgid "Display as a drop down"
+#~ msgstr "ドロップダウンで表示"
+
+#~ msgid "Number of comments to show:"
+#~ msgstr "コメント数"
+
+#~ msgid "(at most 15)"
+#~ msgstr "最大15"
+
+#~ msgid "Number of trackbacks to show:"
+#~ msgstr "トラックバック数"

@@ -1,0 +1,642 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MaxFlat 1.0\n"
+"POT-Creation-Date: 2014-02-19 00:03+0100\n"
+"PO-Revision-Date: 2014-02-19 00:12+0100\n"
+"Last-Translator: \n"
+"Language-Team: Peter Bielecki <netbiel@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ./smart-lib\n"
+"X-Poedit-SearchPath-2: ./smart-lib/core\n"
+"X-Poedit-SearchPath-3: ./smart-lib/extend\n"
+"X-Poedit-SearchPath-4: ./smart-lib/project\n"
+"X-Poedit-SearchPath-5: ./views/snippets\n"
+
+#: 404.php:13
+msgid ""
+"Apologies, but no results were found. Perhaps searching will help find a "
+"related post."
+msgstr ""
+
+#: archive.php:18
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: archive.php:19
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: archive.php:21
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: archive.php:23
+msgid "Archives"
+msgstr ""
+
+#: author.php:19
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: author.php:39 author.php:46 views/snippets/author_info.php:12
+#: views/snippets/author_info.php:19
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: category.php:16
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: comments.php:29
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:31
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:32
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:41
+msgid "Comments are closed."
+msgstr ""
+
+#: content-featured.php:14 content-loop-2columns.php:16
+#: content-loop-2columns.php:31 content-loop-2columns.php:41
+#: content-loop.php:13 content.php:13 smart-lib/template-tags.php:447
+#: smart-lib/template-tags.php:460
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: content-loop-2columns.php:54 content-loop.php:44 content.php:44
+msgid "Continue reading"
+msgstr ""
+
+#: functions.php:66
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:67
+msgid "Bottom Menu"
+msgstr ""
+
+#: functions.php:68
+msgid "Vertical Menu"
+msgstr ""
+
+#: header.php:48 section-menu.php:5
+msgid "Skip to content"
+msgstr ""
+
+#: image.php:18
+#, php-format
+msgid ""
+"<span class=\"meta-prep meta-prep-entry-date\"></span> <span class=\"entry-"
+"date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a "
+"href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a "
+"href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>."
+msgstr ""
+
+#: image.php:29 smart-lib/project/class-project-layout.php:565
+msgid "Edit"
+msgstr ""
+
+#: image.php:35
+msgid "&larr; Previous"
+msgstr ""
+
+#: image.php:36
+msgid "Next &rarr;"
+msgstr ""
+
+#: image.php:91 smart-lib/project/class-project-layout.php:445
+msgid "Pages:"
+msgstr ""
+
+#: search.php:13
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: search.php:29
+msgid "Nothing Found"
+msgstr ""
+
+#: search.php:33
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: searchform.php:6 searchform.php:9 smart-lib/template-tags.php:305
+#: smart-lib/project/class-custom-widgets.php:39
+msgid "Search"
+msgstr ""
+
+#: tag.php:16
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: smart-lib/template-tags.php:303
+msgid "Search for ..."
+msgstr ""
+
+#: smart-lib/template-tags.php:340
+msgid "- Select -"
+msgstr ""
+
+#: smart-lib/template-tags.php:358
+msgid "Menu Not Found"
+msgstr ""
+
+#: smart-lib/template-tags.php:426
+msgid "Related posts"
+msgstr ""
+
+#: smart-lib/template-tags.php:576
+msgid "Published by: "
+msgstr ""
+
+#: smart-lib/template-tags.php:586
+msgid "Tags: "
+msgstr ""
+
+#: smart-lib/template-tags.php:598
+msgid "Comment"
+msgstr ""
+
+#: smart-lib/template-tags.php:598 views/snippets/image_social_area.php:16
+msgid "1 Reply"
+msgstr ""
+
+#: smart-lib/template-tags.php:598 views/snippets/image_social_area.php:16
+msgid "% Replies"
+msgstr ""
+
+#: smart-lib/template-tags.php:615
+msgid "To view this protected post, enter the password below:"
+msgstr ""
+
+#: smart-lib/template-tags.php:615
+msgid "Password:"
+msgstr ""
+
+#: smart-lib/core/class-base-utils.php:50
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: smart-lib/extend/class-extend-project-admin.php:85
+msgid "Twitter Username"
+msgstr ""
+
+#: smart-lib/extend/class-extend-project-admin.php:86
+msgid "Facebook URL"
+msgstr ""
+
+#: smart-lib/extend/class-extend-project-admin.php:87
+msgid "Google+ URL"
+msgstr ""
+
+#: smart-lib/extend/class-extend-project-admin.php:88
+msgid "Pinterest URL"
+msgstr ""
+
+#: smart-lib/extend/class-extend-project-admin.php:89
+msgid "LinkedIn URL"
+msgstr ""
+
+#: smart-lib/extend/class-extend-project-admin.php:90
+msgid "YouTube URL"
+msgstr ""
+
+#: smart-lib/extend/class-extend-project-admin.php:105
+msgid "User profile picture"
+msgstr ""
+
+#: smart-lib/extend/class-extend-project-admin.php:110
+msgid "Image"
+msgstr ""
+
+#: smart-lib/extend/class-extend-project-admin.php:115
+msgid "Upload user photo"
+msgstr ""
+
+#: smart-lib/extend/class-extend-project-admin.php:116
+msgid " or You can paste external URL"
+msgstr ""
+
+#: smart-lib/extend/class-extend-project-admin.php:274
+msgid "Category layout"
+msgstr ""
+
+#: smart-lib/extend/class-extend-project-admin.php:278
+msgid "One column"
+msgstr ""
+
+#: smart-lib/extend/class-extend-project-admin.php:281
+msgid "Two columns"
+msgstr ""
+
+#: smart-lib/extend/class-extend-project-admin.php:314
+msgid "MaxFlat: Post additional content"
+msgstr ""
+
+#: smart-lib/extend/class-extend-project-admin.php:328
+msgid "Video:"
+msgstr ""
+
+#: smart-lib/extend/class-extend-project-admin.php:329
+#: smart-lib/project/class-custom-widgets.php:578
+msgid "Embed code:"
+msgstr ""
+
+#: smart-lib/extend/class-extend-project-admin.php:331
+msgid ""
+"You can embed video from YouTube, Vimeo, DailyMotion or from another service"
+msgstr ""
+
+#: smart-lib/extend/class-extend-project-admin.php:381
+msgid "Banner code:"
+msgstr ""
+
+#: smart-lib/extend/class-extend-project-admin.php:387
+msgid "You can add a banner code to the <strong>header</strong> of page"
+msgstr ""
+
+#: smart-lib/extend/class-shortcodes.php:79
+msgid "Please specify your Google Maps API key"
+msgstr ""
+
+#: smart-lib/project/class-custom-widgets.php:38
+msgid "A search form for your site"
+msgstr ""
+
+#: smart-lib/project/class-custom-widgets.php:60
+#: smart-lib/project/class-custom-widgets.php:200
+#: smart-lib/project/class-custom-widgets.php:312
+#: smart-lib/project/class-custom-widgets.php:572
+#: smart-lib/project/class-custom-widgets.php:703
+#: smart-lib/project/class-custom-widgets.php:839
+msgid "Title:"
+msgstr ""
+
+#: smart-lib/project/class-custom-widgets.php:89
+msgid "The most recent posts on your site (extended contorls)"
+msgstr ""
+
+#: smart-lib/project/class-custom-widgets.php:90
+msgid " Extended Recent Posts"
+msgstr ""
+
+#: smart-lib/project/class-custom-widgets.php:117
+msgid "Recent Posts"
+msgstr ""
+
+#: smart-lib/project/class-custom-widgets.php:205
+msgid "Number of posts to show:"
+msgstr ""
+
+#: smart-lib/project/class-custom-widgets.php:212
+msgid "Display post date?"
+msgstr ""
+
+#: smart-lib/project/class-custom-widgets.php:219
+msgid "Display post thumbnail?"
+msgstr ""
+
+#: smart-lib/project/class-custom-widgets.php:225
+msgid "Display post author?"
+msgstr ""
+
+#: smart-lib/project/class-custom-widgets.php:243
+msgid "Short  info & avatar"
+msgstr ""
+
+#: smart-lib/project/class-custom-widgets.php:244
+msgid " One Author Profile"
+msgstr ""
+
+#: smart-lib/project/class-custom-widgets.php:319
+msgid "Authot Name:"
+msgstr ""
+
+#: smart-lib/project/class-custom-widgets.php:335
+msgid "Avatar Size:"
+msgstr ""
+
+#: smart-lib/project/class-custom-widgets.php:366
+msgid "Add social profile icons"
+msgstr ""
+
+#: smart-lib/project/class-custom-widgets.php:367
+msgid "  Social Icons"
+msgstr ""
+
+#: smart-lib/project/class-custom-widgets.php:432
+msgid "Short Title:"
+msgstr ""
+
+#: smart-lib/project/class-custom-widgets.php:438
+msgid "Facebook:"
+msgstr ""
+
+#: smart-lib/project/class-custom-widgets.php:443
+msgid "Google+:"
+msgstr ""
+
+#: smart-lib/project/class-custom-widgets.php:448
+msgid "Youtube:"
+msgstr ""
+
+#: smart-lib/project/class-custom-widgets.php:453
+msgid "Twitter:"
+msgstr ""
+
+#: smart-lib/project/class-custom-widgets.php:458
+msgid "Pinterest:"
+msgstr ""
+
+#: smart-lib/project/class-custom-widgets.php:462
+msgid "LinkedIn:"
+msgstr ""
+
+#: smart-lib/project/class-custom-widgets.php:489
+msgid "Featured Video Widget"
+msgstr ""
+
+#: smart-lib/project/class-custom-widgets.php:490
+msgid " Video Widget"
+msgstr ""
+
+#: smart-lib/project/class-custom-widgets.php:582
+msgid "More text:"
+msgstr ""
+
+#: smart-lib/project/class-custom-widgets.php:587
+msgid "Link:"
+msgstr ""
+
+#: smart-lib/project/class-custom-widgets.php:613
+msgid "Displays last posts from the video post format"
+msgstr ""
+
+#: smart-lib/project/class-custom-widgets.php:614
+msgid "  Recent Video"
+msgstr ""
+
+#: smart-lib/project/class-custom-widgets.php:709
+#: smart-lib/project/class-custom-widgets.php:845
+msgid "Limit:"
+msgstr ""
+
+#: smart-lib/project/class-custom-widgets.php:733
+msgid "Displays last posts from the gallery post format"
+msgstr ""
+
+#: smart-lib/project/class-custom-widgets.php:734
+msgid "  Recent Galleries"
+msgstr ""
+
+#: smart-lib/project/class-project-admin-utils.php:105
+msgid "Customize"
+msgstr ""
+
+#: smart-lib/project/class-project-customizer.php:300
+msgid "Logo"
+msgstr ""
+
+#: smart-lib/project/class-project-customizer.php:305
+msgid "Breadcrumb"
+msgstr ""
+
+#: smart-lib/project/class-project-customizer.php:311
+#: smart-lib/project/class-project-customizer.php:355
+msgid "Pagination"
+msgstr ""
+
+#: smart-lib/project/class-project-customizer.php:316
+msgid "Social buttons"
+msgstr ""
+
+#: smart-lib/project/class-project-customizer.php:323
+msgid "Custom Code"
+msgstr ""
+
+#: smart-lib/project/class-project-customizer.php:338
+msgid "Footer text"
+msgstr ""
+
+#: smart-lib/project/class-project-customizer.php:360
+msgid "Older posts/Newer posts"
+msgstr ""
+
+#: smart-lib/project/class-project-customizer.php:361
+msgid "Paginate links"
+msgstr ""
+
+#: smart-lib/project/class-project-customizer.php:375
+msgid "Separator"
+msgstr ""
+
+#: smart-lib/project/class-project-customizer.php:391
+msgid "Main Font Color"
+msgstr ""
+
+#: smart-lib/project/class-project-customizer.php:405
+msgid "Headers Text Color"
+msgstr ""
+
+#: smart-lib/project/class-project-customizer.php:419
+msgid "Sidebar Color"
+msgstr ""
+
+#: smart-lib/project/class-project-customizer.php:433
+msgid "Link Color"
+msgstr ""
+
+#: smart-lib/project/class-project-customizer.php:463
+msgid "Top Bar Outer Color"
+msgstr ""
+
+#: smart-lib/project/class-project-customizer.php:476
+msgid "Top Bar Menu Color"
+msgstr ""
+
+#: smart-lib/project/class-project-customizer.php:490
+msgid "Top Bar Menu Link Color"
+msgstr ""
+
+#: smart-lib/project/class-project-customizer.php:503
+msgid "Top Bar Menu Link Background"
+msgstr ""
+
+#: smart-lib/project/class-project-customizer.php:518
+msgid "Upload"
+msgstr ""
+
+#: smart-lib/project/class-project-customizer.php:533
+msgid "Upload favicon"
+msgstr ""
+
+#: smart-lib/project/class-project-customizer.php:548
+msgid "Facebook Like"
+msgstr ""
+
+#: smart-lib/project/class-project-customizer.php:561
+msgid "Twitter Button "
+msgstr ""
+
+#: smart-lib/project/class-project-customizer.php:574
+msgid "Google +1"
+msgstr ""
+
+#: smart-lib/project/class-project-customizer.php:587
+msgid "Pinterest"
+msgstr ""
+
+#: smart-lib/project/class-project-customizer.php:607
+msgid "Custom Scripts for Header [header.php]"
+msgstr ""
+
+#: smart-lib/project/class-project-customizer.php:615
+msgid "Custom Scripts for Footer [footer.php]"
+msgstr ""
+
+#: smart-lib/project/class-project-customizer.php:625
+msgid "Layout"
+msgstr ""
+
+#: smart-lib/project/class-project-customizer.php:639
+msgid "Layout variants:"
+msgstr ""
+
+#: smart-lib/project/class-project-customizer.php:644
+msgid "Left menu & right sidebar"
+msgstr ""
+
+#: smart-lib/project/class-project-customizer.php:645
+msgid "Left sidebar & right menu"
+msgstr ""
+
+#: smart-lib/project/class-project-customizer.php:646
+msgid "Right sidebar without menu"
+msgstr ""
+
+#: smart-lib/project/class-project-customizer.php:647
+msgid "Left menu without sidebar"
+msgstr ""
+
+#: smart-lib/project/class-project-customizer.php:671
+msgid "Resize components"
+msgstr ""
+
+#: smart-lib/project/class-project-customizer.php:690
+msgid "Layout Width "
+msgstr ""
+
+#: smart-lib/project/class-project-customizer.php:697
+msgid "Sidebar Width"
+msgstr ""
+
+#: smart-lib/project/class-project-customizer.php:706
+msgid "Typography options"
+msgstr ""
+
+#: smart-lib/project/class-project-customizer.php:717
+msgid "Primary font"
+msgstr ""
+
+#: smart-lib/project/class-project-customizer.php:732
+msgid "Top headers font"
+msgstr ""
+
+#: smart-lib/project/class-project-customizer.php:747
+msgid "Top menu font"
+msgstr ""
+
+#: smart-lib/project/class-project-layout.php:272
+#: smart-lib/project/class-project-layout.php:275
+#: smart-lib/project/class-project-layout.php:278
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: smart-lib/project/class-project-layout.php:281
+msgid "Blog Archives"
+msgstr ""
+
+#: smart-lib/project/class-project-layout.php:326
+msgid " "
+msgstr ""
+
+#: smart-lib/project/class-project-layout.php:364
+#: smart-lib/project/class-project-layout.php:426
+msgid "Post navigation"
+msgstr ""
+
+#: smart-lib/project/class-project-layout.php:370
+msgid "&larr; Older posts"
+msgstr ""
+
+#: smart-lib/project/class-project-layout.php:371
+msgid "Newer posts &rarr;"
+msgstr ""
+
+#: smart-lib/project/class-project-layout.php:450
+msgid "Next page"
+msgstr ""
+
+#: smart-lib/project/class-project-layout.php:451
+msgid "Previous page"
+msgstr ""
+
+#: smart-lib/project/class-project-layout.php:524
+msgid "Pingback:"
+msgstr ""
+
+#: smart-lib/project/class-project-layout.php:524
+msgid "(Edit)"
+msgstr ""
+
+#: smart-lib/project/class-project-layout.php:547
+msgid "Post author"
+msgstr ""
+
+#: smart-lib/project/class-project-layout.php:553
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: smart-lib/project/class-project-layout.php:560
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: smart-lib/project/class-project-layout.php:570
+msgid "Reply"
+msgstr ""
+
+#: views/snippets/author_info.php:31
+#, php-format
+msgid "View all posts by %s <span class=\"icon-chevron-sign-right\"></span>"
+msgstr ""
+
+#: views/snippets/image_social_area.php:16
+msgid "Leave a reply"
+msgstr ""

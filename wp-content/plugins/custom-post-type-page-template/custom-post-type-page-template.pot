@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Post Type Page Template\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-31 21:29+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.3\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: custom-post-type-page-template.php:54 custom-post-type-page-template.php:66
+msgid "Page Template"
+msgstr ""
+
+#: custom-post-type-page-template.php:60
+#: custom-post-type-page-template.php:136
+msgid "Custom Post Type Page Template"
+msgstr ""
+
+#: custom-post-type-page-template.php:67
+msgid "Default Template"
+msgstr ""
+
+#: custom-post-type-page-template.php:141
+msgid "Settings saved."
+msgstr ""
+
+#: custom-post-type-page-template.php:150
+msgid "Custom Post Types"
+msgstr ""
+
+#: custom-post-type-page-template.php:165
+msgid "Enforcement Mode"
+msgstr ""
+
+#: custom-post-type-page-template.php:166
+msgid ""
+"Check this in case of using  themes like Twenty Eleven, Twenty Twelve, etc."
+msgstr ""
+
+#: custom-post-type-page-template.php:170
+msgid "Save Changes"
+msgstr ""
